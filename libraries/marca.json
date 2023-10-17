@@ -1,0 +1,7382 @@
+[
+ {
+   "codigo": 0,
+   "nombre": "SIN MARCA"
+ },
+ {
+   "codigo": 1,
+   "nombre": "CHEVROLET"
+ },
+ {
+   "codigo": 2,
+   "nombre": "DAEWOO"
+ },
+ {
+   "codigo": 3,
+   "nombre": "FIAT"
+ },
+ {
+   "codigo": 5,
+   "nombre": "KIA"
+ },
+ {
+   "codigo": 6,
+   "nombre": "MAZDA"
+ },
+ {
+   "codigo": 8,
+   "nombre": "RENAULT"
+ },
+ {
+   "codigo": 9,
+   "nombre": "VOLKSWAGEN"
+ },
+ {
+   "codigo": 10,
+   "nombre": "DODGE"
+ },
+ {
+   "codigo": 11,
+   "nombre": "SIMCA"
+ },
+ {
+   "codigo": 12,
+   "nombre": "PLYMOUTH"
+ },
+ {
+   "codigo": 13,
+   "nombre": "OLDSMOBILE"
+ },
+ {
+   "codigo": 14,
+   "nombre": "LANCIA"
+ },
+ {
+   "codigo": 15,
+   "nombre": "NISSAN"
+ },
+ {
+   "codigo": 16,
+   "nombre": "PEUGEOT"
+ },
+ {
+   "codigo": 17,
+   "nombre": "SUBARU"
+ },
+ {
+   "codigo": 18,
+   "nombre": "DATSUN"
+ },
+ {
+   "codigo": 19,
+   "nombre": "BUICK"
+ },
+ {
+   "codigo": 20,
+   "nombre": "CADILLAC"
+ },
+ {
+   "codigo": 21,
+   "nombre": "HONDA"
+ },
+ {
+   "codigo": 22,
+   "nombre": "BRONCO"
+ },
+ {
+   "codigo": 23,
+   "nombre": "MITSUBISHI"
+ },
+ {
+   "codigo": 24,
+   "nombre": "PONTIAC"
+ },
+ {
+   "codigo": 25,
+   "nombre": "TOYOTA"
+ },
+ {
+   "codigo": 26,
+   "nombre": "VOLVO"
+ },
+ {
+   "codigo": 27,
+   "nombre": "ALFA ROMEO"
+ },
+ {
+   "codigo": 28,
+   "nombre": "BMW"
+ },
+ {
+   "codigo": 29,
+   "nombre": "FERRARI"
+ },
+ {
+   "codigo": 30,
+   "nombre": "MERCEDES BENZ"
+ },
+ {
+   "codigo": 32,
+   "nombre": "ROLLS ROYCE"
+ },
+ {
+   "codigo": 33,
+   "nombre": "JAGUAR"
+ },
+ {
+   "codigo": 34,
+   "nombre": "DACIA"
+ },
+ {
+   "codigo": 35,
+   "nombre": "LADA"
+ },
+ {
+   "codigo": 36,
+   "nombre": "OLTCIT"
+ },
+ {
+   "codigo": 37,
+   "nombre": "TAVRIA"
+ },
+ {
+   "codigo": 39,
+   "nombre": "VOLGA"
+ },
+ {
+   "codigo": 40,
+   "nombre": "SKODA"
+ },
+ {
+   "codigo": 41,
+   "nombre": "CITROEN"
+ },
+ {
+   "codigo": 42,
+   "nombre": "DAIHATSU"
+ },
+ {
+   "codigo": 44,
+   "nombre": "GAZ"
+ },
+ {
+   "codigo": 45,
+   "nombre": "UAZ"
+ },
+ {
+   "codigo": 46,
+   "nombre": "ARO"
+ },
+ {
+   "codigo": 47,
+   "nombre": "MERCURY"
+ },
+ {
+   "codigo": 48,
+   "nombre": "OPEL"
+ },
+ {
+   "codigo": 49,
+   "nombre": "ISUZU"
+ },
+ {
+   "codigo": 50,
+   "nombre": "JEEP"
+ },
+ {
+   "codigo": 51,
+   "nombre": "LAND ROVER"
+ },
+ {
+   "codigo": 52,
+   "nombre": "SUZUKI"
+ },
+ {
+   "codigo": 53,
+   "nombre": "CHRYSLER"
+ },
+ {
+   "codigo": 54,
+   "nombre": "FORD"
+ },
+ {
+   "codigo": 56,
+   "nombre": "YAMAHA"
+ },
+ {
+   "codigo": 57,
+   "nombre": "KAWASAKI"
+ },
+ {
+   "codigo": 60,
+   "nombre": "HARLEY DAVIDSON"
+ },
+ {
+   "codigo": 61,
+   "nombre": "AUTECO"
+ },
+ {
+   "codigo": 62,
+   "nombre": "INTERNATIONAL"
+ },
+ {
+   "codigo": 63,
+   "nombre": "ASIA MOTOR"
+ },
+ {
+   "codigo": 64,
+   "nombre": "MACK"
+ },
+ {
+   "codigo": 65,
+   "nombre": "CAGIVA"
+ },
+ {
+   "codigo": 66,
+   "nombre": "WILLYS"
+ },
+ {
+   "codigo": 67,
+   "nombre": "KENWORTH"
+ },
+ {
+   "codigo": 68,
+   "nombre": "IVECO"
+ },
+ {
+   "codigo": 69,
+   "nombre": "LAMBRETA"
+ },
+ {
+   "codigo": 71,
+   "nombre": "MINSK"
+ },
+ {
+   "codigo": 72,
+   "nombre": "HERO"
+ },
+ {
+   "codigo": 73,
+   "nombre": "AUSTIN"
+ },
+ {
+   "codigo": 74,
+   "nombre": "AUTOCAR"
+ },
+ {
+   "codigo": 75,
+   "nombre": "DESOTO"
+ },
+ {
+   "codigo": 76,
+   "nombre": "HINO"
+ },
+ {
+   "codigo": 83,
+   "nombre": "DINA"
+ },
+ {
+   "codigo": 84,
+   "nombre": "GEO"
+ },
+ {
+   "codigo": 85,
+   "nombre": "DELTA"
+ },
+ {
+   "codigo": 86,
+   "nombre": "HYOSUNG"
+ },
+ {
+   "codigo": 89,
+   "nombre": "HUSQVARNA"
+ },
+ {
+   "codigo": 91,
+   "nombre": "GMC"
+ },
+ {
+   "codigo": 95,
+   "nombre": "VIASA"
+ },
+ {
+   "codigo": 97,
+   "nombre": "KUBOTA"
+ },
+ {
+   "codigo": 101,
+   "nombre": "TAM"
+ },
+ {
+   "codigo": 104,
+   "nombre": "BELARUS"
+ },
+ {
+   "codigo": 108,
+   "nombre": "JIALING"
+ },
+ {
+   "codigo": 110,
+   "nombre": "ZASTAVA"
+ },
+ {
+   "codigo": 112,
+   "nombre": "HUALI"
+ },
+ {
+   "codigo": 113,
+   "nombre": "MONTESA"
+ },
+ {
+   "codigo": 114,
+   "nombre": "FARGO"
+ },
+ {
+   "codigo": 115,
+   "nombre": "ROVER"
+ },
+ {
+   "codigo": 118,
+   "nombre": "CORCEL"
+ },
+ {
+   "codigo": 119,
+   "nombre": "KAMAZ"
+ },
+ {
+   "codigo": 120,
+   "nombre": "PUCH"
+ },
+ {
+   "codigo": 121,
+   "nombre": "EBRO"
+ },
+ {
+   "codigo": 123,
+   "nombre": "JINCHENG"
+ },
+ {
+   "codigo": 125,
+   "nombre": "NASH"
+ },
+ {
+   "codigo": 126,
+   "nombre": "WARTBURG"
+ },
+ {
+   "codigo": 127,
+   "nombre": "MORRIS"
+ },
+ {
+   "codigo": 128,
+   "nombre": "RAMBLER"
+ },
+ {
+   "codigo": 129,
+   "nombre": "WILLCO"
+ },
+ {
+   "codigo": 130,
+   "nombre": "QJIANG"
+ },
+ {
+   "codigo": 135,
+   "nombre": "SISU"
+ },
+ {
+   "codigo": 136,
+   "nombre": "SEAT"
+ },
+ {
+   "codigo": 138,
+   "nombre": "ABARTH"
+ },
+ {
+   "codigo": 139,
+   "nombre": "AUDI"
+ },
+ {
+   "codigo": 142,
+   "nombre": "ASTON MARTIN"
+ },
+ {
+   "codigo": 143,
+   "nombre": "AUTO UNION"
+ },
+ {
+   "codigo": 144,
+   "nombre": "AVIA"
+ },
+ {
+   "codigo": 146,
+   "nombre": "CHECKER"
+ },
+ {
+   "codigo": 148,
+   "nombre": "BROCK WAY"
+ },
+ {
+   "codigo": 149,
+   "nombre": "BORG WARD"
+ },
+ {
+   "codigo": 150,
+   "nombre": "BENTLEY"
+ },
+ {
+   "codigo": 151,
+   "nombre": "BUSSING"
+ },
+ {
+   "codigo": 153,
+   "nombre": "BEDFORD"
+ },
+ {
+   "codigo": 154,
+   "nombre": "BERLIET"
+ },
+ {
+   "codigo": 156,
+   "nombre": "BARREIROS"
+ },
+ {
+   "codigo": 158,
+   "nombre": "COMMER"
+ },
+ {
+   "codigo": 163,
+   "nombre": "DKW"
+ },
+ {
+   "codigo": 165,
+   "nombre": "EDSEL"
+ },
+ {
+   "codigo": 167,
+   "nombre": "FORDSON"
+ },
+ {
+   "codigo": 169,
+   "nombre": "FREIGHTLINER"
+ },
+ {
+   "codigo": 171,
+   "nombre": "FAUN"
+ },
+ {
+   "codigo": 175,
+   "nombre": "HOHOLDEN"
+ },
+ {
+   "codigo": 176,
+   "nombre": "HILLMAN"
+ },
+ {
+   "codigo": 178,
+   "nombre": "HUDSON"
+ },
+ {
+   "codigo": 179,
+   "nombre": "IFA"
+ },
+ {
+   "codigo": 181,
+   "nombre": "ISO"
+ },
+ {
+   "codigo": 184,
+   "nombre": "KIAMASTER"
+ },
+ {
+   "codigo": 185,
+   "nombre": "LAMBORGHINI"
+ },
+ {
+   "codigo": 188,
+   "nombre": "LOTUS"
+ },
+ {
+   "codigo": 190,
+   "nombre": "MAN"
+ },
+ {
+   "codigo": 191,
+   "nombre": "MAGIRUS DEUTZ"
+ },
+ {
+   "codigo": 192,
+   "nombre": "MOSKOVICH"
+ },
+ {
+   "codigo": 195,
+   "nombre": "MURAVEY"
+ },
+ {
+   "codigo": 196,
+   "nombre": "NECKAR"
+ },
+ {
+   "codigo": 198,
+   "nombre": "PACKARD"
+ },
+ {
+   "codigo": 200,
+   "nombre": "F.S.O."
+ },
+ {
+   "codigo": 201,
+   "nombre": "ALEKO"
+ },
+ {
+   "codigo": 202,
+   "nombre": "AMERICAN MOTOR"
+ },
+ {
+   "codigo": 204,
+   "nombre": "ROA"
+ },
+ {
+   "codigo": 205,
+   "nombre": "BEIJING"
+ },
+ {
+   "codigo": 206,
+   "nombre": "DERBY"
+ },
+ {
+   "codigo": 207,
+   "nombre": "HENRY J"
+ },
+ {
+   "codigo": 208,
+   "nombre": "HYUNDAI"
+ },
+ {
+   "codigo": 209,
+   "nombre": "JAWA"
+ },
+ {
+   "codigo": 210,
+   "nombre": "LEXUS"
+ },
+ {
+   "codigo": 212,
+   "nombre": "MINICORD"
+ },
+ {
+   "codigo": 213,
+   "nombre": "PEGASSO"
+ },
+ {
+   "codigo": 214,
+   "nombre": "PORSCHE"
+ },
+ {
+   "codigo": 215,
+   "nombre": "REO"
+ },
+ {
+   "codigo": 216,
+   "nombre": "SCANIA"
+ },
+ {
+   "codigo": 217,
+   "nombre": "SSANGYONG"
+ },
+ {
+   "codigo": 218,
+   "nombre": "STUDEBAKER"
+ },
+ {
+   "codigo": 219,
+   "nombre": "TRIUMPH"
+ },
+ {
+   "codigo": 220,
+   "nombre": "WARZAMA"
+ },
+ {
+   "codigo": 221,
+   "nombre": "PIAGGIO"
+ },
+ {
+   "codigo": 222,
+   "nombre": "COLMOVE"
+ },
+ {
+   "codigo": 223,
+   "nombre": "DAELIM"
+ },
+ {
+   "codigo": 224,
+   "nombre": "JIANSHE"
+ },
+ {
+   "codigo": 225,
+   "nombre": "YUGO"
+ },
+ {
+   "codigo": 226,
+   "nombre": "HUMMER"
+ },
+ {
+   "codigo": 227,
+   "nombre": "KTM"
+ },
+ {
+   "codigo": 228,
+   "nombre": "BAJAJ"
+ },
+ {
+   "codigo": 229,
+   "nombre": "POLONEZ"
+ },
+ {
+   "codigo": 230,
+   "nombre": "BEISUTE"
+ },
+ {
+   "codigo": 231,
+   "nombre": "XINGFU"
+ },
+ {
+   "codigo": 232,
+   "nombre": "AGRALE"
+ },
+ {
+   "codigo": 233,
+   "nombre": "PETERBILT"
+ },
+ {
+   "codigo": 234,
+   "nombre": "DUCATI"
+ },
+ {
+   "codigo": 235,
+   "nombre": "MG"
+ },
+ {
+   "codigo": 236,
+   "nombre": "RAF"
+ },
+ {
+   "codigo": 237,
+   "nombre": "SPARTAN"
+ },
+ {
+   "codigo": 238,
+   "nombre": "PRINCE"
+ },
+ {
+   "codigo": 239,
+   "nombre": "KINETIC"
+ },
+ {
+   "codigo": 240,
+   "nombre": "BOMBARDIER"
+ },
+ {
+   "codigo": 241,
+   "nombre": "INFINITI"
+ },
+ {
+   "codigo": 242,
+   "nombre": "DAYANG"
+ },
+ {
+   "codigo": 243,
+   "nombre": "ZUMY"
+ },
+ {
+   "codigo": 244,
+   "nombre": "VAUSHALL"
+ },
+ {
+   "codigo": 245,
+   "nombre": "VESPA"
+ },
+ {
+   "codigo": 246,
+   "nombre": "B.S.A"
+ },
+ {
+   "codigo": 247,
+   "nombre": "NORTON"
+ },
+ {
+   "codigo": 248,
+   "nombre": "ITALJET"
+ },
+ {
+   "codigo": 249,
+   "nombre": "VOSKHOD"
+ },
+ {
+   "codigo": 250,
+   "nombre": "INDIAN"
+ },
+ {
+   "codigo": 251,
+   "nombre": "GILERA"
+ },
+ {
+   "codigo": 252,
+   "nombre": "MAHINDRA"
+ },
+ {
+   "codigo": 253,
+   "nombre": "BABETA"
+ },
+ {
+   "codigo": 254,
+   "nombre": "BULTACO"
+ },
+ {
+   "codigo": 255,
+   "nombre": "BOCXOD"
+ },
+ {
+   "codigo": 256,
+   "nombre": "CARABELLA"
+ },
+ {
+   "codigo": 257,
+   "nombre": "MOTOGUZZI"
+ },
+ {
+   "codigo": 258,
+   "nombre": "PACER"
+ },
+ {
+   "codigo": 259,
+   "nombre": "PANNONIA"
+ },
+ {
+   "codigo": 260,
+   "nombre": "PANHARD"
+ },
+ {
+   "codigo": 261,
+   "nombre": "RONART"
+ },
+ {
+   "codigo": 262,
+   "nombre": "SAMSUNG"
+ },
+ {
+   "codigo": 263,
+   "nombre": "SANGLAS"
+ },
+ {
+   "codigo": 264,
+   "nombre": "SUMBEAM"
+ },
+ {
+   "codigo": 265,
+   "nombre": "SINGER"
+ },
+ {
+   "codigo": 266,
+   "nombre": "SAVA"
+ },
+ {
+   "codigo": 267,
+   "nombre": "TRABANT"
+ },
+ {
+   "codigo": 268,
+   "nombre": "THAMES"
+ },
+ {
+   "codigo": 269,
+   "nombre": "VOSJOD"
+ },
+ {
+   "codigo": 270,
+   "nombre": "WHITE"
+ },
+ {
+   "codigo": 271,
+   "nombre": "LML"
+ },
+ {
+   "codigo": 272,
+   "nombre": "TATA"
+ },
+ {
+   "codigo": 273,
+   "nombre": "SMART"
+ },
+ {
+   "codigo": 274,
+   "nombre": "VARZI"
+ },
+ {
+   "codigo": 275,
+   "nombre": "LIFAN"
+ },
+ {
+   "codigo": 276,
+   "nombre": "KOREMOTO"
+ },
+ {
+   "codigo": 277,
+   "nombre": "AKT"
+ },
+ {
+   "codigo": 278,
+   "nombre": "SAIC CHERY"
+ },
+ {
+   "codigo": 279,
+   "nombre": "DINLI"
+ },
+ {
+   "codigo": 280,
+   "nombre": "GAS GAS"
+ },
+ {
+   "codigo": 281,
+   "nombre": "CHANGAN"
+ },
+ {
+   "codigo": 282,
+   "nombre": "OKLAN"
+ },
+ {
+   "codigo": 283,
+   "nombre": "HAFEI"
+ },
+ {
+   "codigo": 284,
+   "nombre": "LINHAI"
+ },
+ {
+   "codigo": 285,
+   "nombre": "MAX MOTOR"
+ },
+ {
+   "codigo": 286,
+   "nombre": "QINGQI"
+ },
+ {
+   "codigo": 287,
+   "nombre": "GEELY"
+ },
+ {
+   "codigo": 288,
+   "nombre": "CHANA"
+ },
+ {
+   "codigo": 289,
+   "nombre": "CHERY"
+ },
+ {
+   "codigo": 290,
+   "nombre": "SHENGQIBAO"
+ },
+ {
+   "codigo": 291,
+   "nombre": "JEZHANG"
+ },
+ {
+   "codigo": 292,
+   "nombre": "AYCO"
+ },
+ {
+   "codigo": 293,
+   "nombre": "PIONEER"
+ },
+ {
+   "codigo": 294,
+   "nombre": "SAIC WULING"
+ },
+ {
+   "codigo": 295,
+   "nombre": "KINLON"
+ },
+ {
+   "codigo": 296,
+   "nombre": "CHANGJIANG"
+ },
+ {
+   "codigo": 297,
+   "nombre": "JET UKM"
+ },
+ {
+   "codigo": 298,
+   "nombre": "AMC"
+ },
+ {
+   "codigo": 299,
+   "nombre": "SIGMA"
+ },
+ {
+   "codigo": 300,
+   "nombre": "MINI POCKET BIKE"
+ },
+ {
+   "codigo": 301,
+   "nombre": "VICTORY"
+ },
+ {
+   "codigo": 302,
+   "nombre": "CHANGHE"
+ },
+ {
+   "codigo": 303,
+   "nombre": "LONCIN"
+ },
+ {
+   "codigo": 304,
+   "nombre": "KAZUKI"
+ },
+ {
+   "codigo": 305,
+   "nombre": "VENTO"
+ },
+ {
+   "codigo": 306,
+   "nombre": "GOMOTOR"
+ },
+ {
+   "codigo": 307,
+   "nombre": "XIALI"
+ },
+ {
+   "codigo": 308,
+   "nombre": "TITANIA"
+ },
+ {
+   "codigo": 309,
+   "nombre": "JINAN"
+ },
+ {
+   "codigo": 310,
+   "nombre": "ACCURA"
+ },
+ {
+   "codigo": 311,
+   "nombre": "HONLEI"
+ },
+ {
+   "codigo": 312,
+   "nombre": "CPI"
+ },
+ {
+   "codigo": 313,
+   "nombre": "BYD"
+ },
+ {
+   "codigo": 314,
+   "nombre": "DUKAR"
+ },
+ {
+   "codigo": 315,
+   "nombre": "SKYGO"
+ },
+ {
+   "codigo": 316,
+   "nombre": "PASAGGIO"
+ },
+ {
+   "codigo": 317,
+   "nombre": "KAYAK"
+ },
+ {
+   "codigo": 318,
+   "nombre": "AUPACO"
+ },
+ {
+   "codigo": 319,
+   "nombre": "MC MOTOR"
+ },
+ {
+   "codigo": 320,
+   "nombre": "JIANGSU"
+ },
+ {
+   "codigo": 321,
+   "nombre": "SACHS BIKES"
+ },
+ {
+   "codigo": 322,
+   "nombre": "KYMCO"
+ },
+ {
+   "codigo": 323,
+   "nombre": "MZ"
+ },
+ {
+   "codigo": 324,
+   "nombre": "JUNESUN"
+ },
+ {
+   "codigo": 325,
+   "nombre": "REAR"
+ },
+ {
+   "codigo": 326,
+   "nombre": "WALTER"
+ },
+ {
+   "codigo": 327,
+   "nombre": "KINROAD"
+ },
+ {
+   "codigo": 328,
+   "nombre": "MORGAN"
+ },
+ {
+   "codigo": 329,
+   "nombre": "HALLEY"
+ },
+ {
+   "codigo": 330,
+   "nombre": "UKM"
+ },
+ {
+   "codigo": 331,
+   "nombre": "ARIEL"
+ },
+ {
+   "codigo": 332,
+   "nombre": "ATV"
+ },
+ {
+   "codigo": 333,
+   "nombre": "WONJAN"
+ },
+ {
+   "codigo": 334,
+   "nombre": "WANXIN"
+ },
+ {
+   "codigo": 335,
+   "nombre": "JMSTAR"
+ },
+ {
+   "codigo": 336,
+   "nombre": "ZONGSHEN"
+ },
+ {
+   "codigo": 337,
+   "nombre": "BEST"
+ },
+ {
+   "codigo": 338,
+   "nombre": "FUTONG"
+ },
+ {
+   "codigo": 339,
+   "nombre": "YINGANG"
+ },
+ {
+   "codigo": 340,
+   "nombre": "UNISON"
+ },
+ {
+   "codigo": 341,
+   "nombre": "SKOOT MOTORCYCLES"
+ },
+ {
+   "codigo": 342,
+   "nombre": "CHONGQING"
+ },
+ {
+   "codigo": 343,
+   "nombre": "ARGO"
+ },
+ {
+   "codigo": 344,
+   "nombre": "HUONNIAO"
+ },
+ {
+   "codigo": 345,
+   "nombre": "KYOTO"
+ },
+ {
+   "codigo": 346,
+   "nombre": "CMC"
+ },
+ {
+   "codigo": 347,
+   "nombre": "URAL"
+ },
+ {
+   "codigo": 348,
+   "nombre": "FIRENZE"
+ },
+ {
+   "codigo": 349,
+   "nombre": "GREAT WALL"
+ },
+ {
+   "codigo": 350,
+   "nombre": "GENESIS"
+ },
+ {
+   "codigo": 351,
+   "nombre": "POLARIS ATV"
+ },
+ {
+   "codigo": 352,
+   "nombre": "XISPA"
+ },
+ {
+   "codigo": 353,
+   "nombre": "KEEWAY"
+ },
+ {
+   "codigo": 354,
+   "nombre": "ZHEJIANG"
+ },
+ {
+   "codigo": 355,
+   "nombre": "SUMOTO"
+ },
+ {
+   "codigo": 356,
+   "nombre": "AUTOCAR WHITE"
+ },
+ {
+   "codigo": 357,
+   "nombre": "KINROAD XINTIAN"
+ },
+ {
+   "codigo": 358,
+   "nombre": "MOTOR UNO"
+ },
+ {
+   "codigo": 359,
+   "nombre": "USW"
+ },
+ {
+   "codigo": 360,
+   "nombre": "APRILIA"
+ },
+ {
+   "codigo": 361,
+   "nombre": "RENNO"
+ },
+ {
+   "codigo": 362,
+   "nombre": "GALARDI"
+ },
+ {
+   "codigo": 363,
+   "nombre": "TYCO"
+ },
+ {
+   "codigo": 364,
+   "nombre": "BUELL"
+ },
+ {
+   "codigo": 365,
+   "nombre": "JONWAY"
+ },
+ {
+   "codigo": 366,
+   "nombre": "JAC"
+ },
+ {
+   "codigo": 367,
+   "nombre": "BORGO"
+ },
+ {
+   "codigo": 368,
+   "nombre": "ZHONGXING"
+ },
+ {
+   "codigo": 369,
+   "nombre": "U.S.W.MOTORS"
+ },
+ {
+   "codigo": 370,
+   "nombre": "SYM"
+ },
+ {
+   "codigo": 371,
+   "nombre": "ROYAL ENFIELD"
+ },
+ {
+   "codigo": 372,
+   "nombre": "JOYNER"
+ },
+ {
+   "codigo": 373,
+   "nombre": "AVANTI"
+ },
+ {
+   "codigo": 374,
+   "nombre": "SANYA"
+ },
+ {
+   "codigo": 375,
+   "nombre": "FOTON"
+ },
+ {
+   "codigo": 376,
+   "nombre": "CNENLON"
+ },
+ {
+   "codigo": 377,
+   "nombre": "YAMATI"
+ },
+ {
+   "codigo": 378,
+   "nombre": "ROKETA"
+ },
+ {
+   "codigo": 379,
+   "nombre": "ACCURO"
+ },
+ {
+   "codigo": 380,
+   "nombre": "SHINERAY MOTOS"
+ },
+ {
+   "codigo": 381,
+   "nombre": "UNITED MOTORS"
+ },
+ {
+   "codigo": 382,
+   "nombre": "VENOM MOTORS"
+ },
+ {
+   "codigo": 383,
+   "nombre": "TMEC"
+ },
+ {
+   "codigo": 384,
+   "nombre": "QJ"
+ },
+ {
+   "codigo": 385,
+   "nombre": "HAOJIN"
+ },
+ {
+   "codigo": 386,
+   "nombre": "JBWCO"
+ },
+ {
+   "codigo": 387,
+   "nombre": "SONGSHENG"
+ },
+ {
+   "codigo": 388,
+   "nombre": "JMC"
+ },
+ {
+   "codigo": 389,
+   "nombre": "VERUCCI"
+ },
+ {
+   "codigo": 390,
+   "nombre": "BRITISH"
+ },
+ {
+   "codigo": 391,
+   "nombre": "COBRA"
+ },
+ {
+   "codigo": 392,
+   "nombre": "CUSHMA"
+ },
+ {
+   "codigo": 393,
+   "nombre": "BUYANG"
+ },
+ {
+   "codigo": 394,
+   "nombre": "GURGEL"
+ },
+ {
+   "codigo": 395,
+   "nombre": "HUMBERT"
+ },
+ {
+   "codigo": 396,
+   "nombre": "LA SALLE"
+ },
+ {
+   "codigo": 397,
+   "nombre": "PIERCE ARROW"
+ },
+ {
+   "codigo": 398,
+   "nombre": "PUMA"
+ },
+ {
+   "codigo": 399,
+   "nombre": "SATURN"
+ },
+ {
+   "codigo": 400,
+   "nombre": "WULING"
+ },
+ {
+   "codigo": 401,
+   "nombre": "NITRO"
+ },
+ {
+   "codigo": 402,
+   "nombre": "HAILI"
+ },
+ {
+   "codigo": 403,
+   "nombre": "SAEHAN"
+ },
+ {
+   "codigo": 404,
+   "nombre": "TONGKO"
+ },
+ {
+   "codigo": 405,
+   "nombre": "FRIBEST"
+ },
+ {
+   "codigo": 406,
+   "nombre": "NEW ERA"
+ },
+ {
+   "codigo": 407,
+   "nombre": "BRP/CAN AM"
+ },
+ {
+   "codigo": 408,
+   "nombre": "WEST"
+ },
+ {
+   "codigo": 409,
+   "nombre": "XINGYUE"
+ },
+ {
+   "codigo": 410,
+   "nombre": "VENTIE"
+ },
+ {
+   "codigo": 411,
+   "nombre": "XL XINLING"
+ },
+ {
+   "codigo": 412,
+   "nombre": "YUAN"
+ },
+ {
+   "codigo": 413,
+   "nombre": "ACB"
+ },
+ {
+   "codigo": 414,
+   "nombre": "HAMMER HEAD"
+ },
+ {
+   "codigo": 415,
+   "nombre": "ZHEJIANG QIANJIANG"
+ },
+ {
+   "codigo": 416,
+   "nombre": "ZHUJIANG"
+ },
+ {
+   "codigo": 417,
+   "nombre": "POLARIS"
+ },
+ {
+   "codigo": 418,
+   "nombre": "SCOOTER"
+ },
+ {
+   "codigo": 419,
+   "nombre": "DFM"
+ },
+ {
+   "codigo": 420,
+   "nombre": "YAKIMA"
+ },
+ {
+   "codigo": 421,
+   "nombre": "MTK"
+ },
+ {
+   "codigo": 422,
+   "nombre": "FASTER 301 CHOIPERS"
+ },
+ {
+   "codigo": 423,
+   "nombre": "BOURGET"
+ },
+ {
+   "codigo": 424,
+   "nombre": "REX MOTO"
+ },
+ {
+   "codigo": 425,
+   "nombre": "HY MOTOR"
+ },
+ {
+   "codigo": 426,
+   "nombre": "TVS"
+ },
+ {
+   "codigo": 427,
+   "nombre": "HAOMEN"
+ },
+ {
+   "codigo": 428,
+   "nombre": "ZHEJIANG LINGTIAN"
+ },
+ {
+   "codigo": 429,
+   "nombre": "ZOTYE"
+ },
+ {
+   "codigo": 430,
+   "nombre": "SUKYAMA"
+ },
+ {
+   "codigo": 431,
+   "nombre": "CHANGFENG"
+ },
+ {
+   "codigo": 432,
+   "nombre": "XINGUE"
+ },
+ {
+   "codigo": 433,
+   "nombre": "KINGLONG HIGER"
+ },
+ {
+   "codigo": 434,
+   "nombre": "KANDI"
+ },
+ {
+   "codigo": 435,
+   "nombre": "BMA"
+ },
+ {
+   "codigo": 436,
+   "nombre": "ATM"
+ },
+ {
+   "codigo": 437,
+   "nombre": "MD BIKES"
+ },
+ {
+   "codigo": 438,
+   "nombre": "WUYANG"
+ },
+ {
+   "codigo": 439,
+   "nombre": "JINFENG"
+ },
+ {
+   "codigo": 440,
+   "nombre": "PANTERA"
+ },
+ {
+   "codigo": 441,
+   "nombre": "TERRA JET"
+ },
+ {
+   "codigo": 442,
+   "nombre": "WCR"
+ },
+ {
+   "codigo": 443,
+   "nombre": "KANCHAO"
+ },
+ {
+   "codigo": 444,
+   "nombre": "FUXIANDA"
+ },
+ {
+   "codigo": 445,
+   "nombre": "GWM"
+ },
+ {
+   "codigo": 446,
+   "nombre": "RIDER"
+ },
+ {
+   "codigo": 447,
+   "nombre": "ROSSETTI"
+ },
+ {
+   "codigo": 448,
+   "nombre": "DONG FENG"
+ },
+ {
+   "codigo": 449,
+   "nombre": "TIXXON"
+ },
+ {
+   "codigo": 450,
+   "nombre": "ZNEN"
+ },
+ {
+   "codigo": 451,
+   "nombre": "EKA MOTORS"
+ },
+ {
+   "codigo": 452,
+   "nombre": "OROMOTO"
+ },
+ {
+   "codigo": 453,
+   "nombre": "FAW"
+ },
+ {
+   "codigo": 454,
+   "nombre": "SQ RACING"
+ },
+ {
+   "codigo": 455,
+   "nombre": "ZAHAV"
+ },
+ {
+   "codigo": 456,
+   "nombre": "YIBEN-YBFALCON"
+ },
+ {
+   "codigo": 457,
+   "nombre": "ITALIKA"
+ },
+ {
+   "codigo": 458,
+   "nombre": "AKITA"
+ },
+ {
+   "codigo": 459,
+   "nombre": "BIG"
+ },
+ {
+   "codigo": 460,
+   "nombre": "DAIFO"
+ },
+ {
+   "codigo": 461,
+   "nombre": "EAGLE CARGO"
+ },
+ {
+   "codigo": 462,
+   "nombre": "FUDEPAI"
+ },
+ {
+   "codigo": 463,
+   "nombre": "GONOW"
+ },
+ {
+   "codigo": 464,
+   "nombre": "GUZZI"
+ },
+ {
+   "codigo": 465,
+   "nombre": "IOTA"
+ },
+ {
+   "codigo": 466,
+   "nombre": "JIANG"
+ },
+ {
+   "codigo": 467,
+   "nombre": "JIN JIN"
+ },
+ {
+   "codigo": 468,
+   "nombre": "KYNLON"
+ },
+ {
+   "codigo": 469,
+   "nombre": "MOTO MORINI"
+ },
+ {
+   "codigo": 470,
+   "nombre": "NIKITA"
+ },
+ {
+   "codigo": 471,
+   "nombre": "REBELLIN"
+ },
+ {
+   "codigo": 472,
+   "nombre": "SHIJIAZHUANG"
+ },
+ {
+   "codigo": 473,
+   "nombre": "TALON"
+ },
+ {
+   "codigo": 474,
+   "nombre": "TELCOLINE"
+ },
+ {
+   "codigo": 475,
+   "nombre": "TX MOTORS"
+ },
+ {
+   "codigo": 476,
+   "nombre": "WORKMAN"
+ },
+ {
+   "codigo": 477,
+   "nombre": "WUZHENG"
+ },
+ {
+   "codigo": 478,
+   "nombre": "XINKAI"
+ },
+ {
+   "codigo": 479,
+   "nombre": "A.J.S"
+ },
+ {
+   "codigo": 480,
+   "nombre": "ACCESS"
+ },
+ {
+   "codigo": 481,
+   "nombre": "ACE"
+ },
+ {
+   "codigo": 482,
+   "nombre": "ACE MOTOR"
+ },
+ {
+   "codigo": 483,
+   "nombre": "ACM-ZHONG"
+ },
+ {
+   "codigo": 484,
+   "nombre": "ADDO"
+ },
+ {
+   "codigo": 485,
+   "nombre": "ALLAD"
+ },
+ {
+   "codigo": 486,
+   "nombre": "ALLIS CHALMERS"
+ },
+ {
+   "codigo": 487,
+   "nombre": "ALPS"
+ },
+ {
+   "codigo": 488,
+   "nombre": "AMM"
+ },
+ {
+   "codigo": 489,
+   "nombre": "AMW"
+ },
+ {
+   "codigo": 490,
+   "nombre": "AP PIAGGIO"
+ },
+ {
+   "codigo": 491,
+   "nombre": "APELCO GEN-MTO"
+ },
+ {
+   "codigo": 492,
+   "nombre": "ASTRA"
+ },
+ {
+   "codigo": 493,
+   "nombre": "BACCIO"
+ },
+ {
+   "codigo": 494,
+   "nombre": "BAODIAO"
+ },
+ {
+   "codigo": 495,
+   "nombre": "BARBER GREENE"
+ },
+ {
+   "codigo": 496,
+   "nombre": "BASHAN"
+ },
+ {
+   "codigo": 497,
+   "nombre": "BAUKEMA"
+ },
+ {
+   "codigo": 498,
+   "nombre": "BAW"
+ },
+ {
+   "codigo": 499,
+   "nombre": "BETA"
+ },
+ {
+   "codigo": 500,
+   "nombre": "BETTER"
+ },
+ {
+   "codigo": 501,
+   "nombre": "BIANCHI"
+ },
+ {
+   "codigo": 502,
+   "nombre": "BIMOTA"
+ },
+ {
+   "codigo": 503,
+   "nombre": "BLAW KNOX"
+ },
+ {
+   "codigo": 504,
+   "nombre": "BLUE STONE"
+ },
+ {
+   "codigo": 505,
+   "nombre": "BOBCAT"
+ },
+ {
+   "codigo": 506,
+   "nombre": "BODYWORK"
+ },
+ {
+   "codigo": 507,
+   "nombre": "BONSER"
+ },
+ {
+   "codigo": 508,
+   "nombre": "BOUSER"
+ },
+ {
+   "codigo": 509,
+   "nombre": "BRIDGE"
+ },
+ {
+   "codigo": 510,
+   "nombre": "BRONTO"
+ },
+ {
+   "codigo": 511,
+   "nombre": "BUCYRUS"
+ },
+ {
+   "codigo": 512,
+   "nombre": "BUGENI"
+ },
+ {
+   "codigo": 513,
+   "nombre": "CAMECO"
+ },
+ {
+   "codigo": 514,
+   "nombre": "CAN-AM"
+ },
+ {
+   "codigo": 515,
+   "nombre": "CAPACITY"
+ },
+ {
+   "codigo": 516,
+   "nombre": "CARIBE"
+ },
+ {
+   "codigo": 517,
+   "nombre": "CARTER BROTHERS"
+ },
+ {
+   "codigo": 518,
+   "nombre": "CASE"
+ },
+ {
+   "codigo": 519,
+   "nombre": "CATERPILLAR"
+ },
+ {
+   "codigo": 520,
+   "nombre": "CATFLYER"
+ },
+ {
+   "codigo": 521,
+   "nombre": "CHAMPION"
+ },
+ {
+   "codigo": 522,
+   "nombre": "CHANGLIN"
+ },
+ {
+   "codigo": 523,
+   "nombre": "CHARLY"
+ },
+ {
+   "codigo": 524,
+   "nombre": "CHARMING"
+ },
+ {
+   "codigo": 525,
+   "nombre": "CHINSU"
+ },
+ {
+   "codigo": 526,
+   "nombre": "CHONGQING ZONGSHEN"
+ },
+ {
+   "codigo": 527,
+   "nombre": "CHONGQUING YUAN"
+ },
+ {
+   "codigo": 528,
+   "nombre": "CICLONE USA"
+ },
+ {
+   "codigo": 529,
+   "nombre": "CLARCK"
+ },
+ {
+   "codigo": 530,
+   "nombre": "CLUB CAR"
+ },
+ {
+   "codigo": 531,
+   "nombre": "COLOMBIANA DE CHASISES"
+ },
+ {
+   "codigo": 532,
+   "nombre": "COMANDO"
+ },
+ {
+   "codigo": 533,
+   "nombre": "COMET"
+ },
+ {
+   "codigo": 534,
+   "nombre": "CONCORD"
+ },
+ {
+   "codigo": 535,
+   "nombre": "CROWN"
+ },
+ {
+   "codigo": 536,
+   "nombre": "CSEPEL-CUMMINS"
+ },
+ {
+   "codigo": 537,
+   "nombre": "CUSTOM CHROME"
+ },
+ {
+   "codigo": 538,
+   "nombre": "DAVID BROWN"
+ },
+ {
+   "codigo": 539,
+   "nombre": "DAYUN"
+ },
+ {
+   "codigo": 540,
+   "nombre": "DIAMOND"
+ },
+ {
+   "codigo": 541,
+   "nombre": "DIECI"
+ },
+ {
+   "codigo": 542,
+   "nombre": "DINAPAC"
+ },
+ {
+   "codigo": 543,
+   "nombre": "DOMINGUEZ"
+ },
+ {
+   "codigo": 544,
+   "nombre": "DRESSER"
+ },
+ {
+   "codigo": 545,
+   "nombre": "DUST"
+ },
+ {
+   "codigo": 546,
+   "nombre": "DYNACOLT"
+ },
+ {
+   "codigo": 547,
+   "nombre": "E.D. ETNYRE"
+ },
+ {
+   "codigo": 548,
+   "nombre": "EAGLE"
+ },
+ {
+   "codigo": 549,
+   "nombre": "EAGLE AMC"
+ },
+ {
+   "codigo": 550,
+   "nombre": "EASTMAN"
+ },
+ {
+   "codigo": 551,
+   "nombre": "EBTELECTRIC"
+ },
+ {
+   "codigo": 552,
+   "nombre": "ELECTRIC STAR ATV ENERGY"
+ },
+ {
+   "codigo": 553,
+   "nombre": "ELGIN"
+ },
+ {
+   "codigo": 554,
+   "nombre": "ENCAVA"
+ },
+ {
+   "codigo": 555,
+   "nombre": "ENERGY"
+ },
+ {
+   "codigo": 556,
+   "nombre": "ERNEST GRUBER"
+ },
+ {
+   "codigo": 557,
+   "nombre": "EUCLID"
+ },
+ {
+   "codigo": 558,
+   "nombre": "EVO"
+ },
+ {
+   "codigo": 559,
+   "nombre": "EXCELSIOR"
+ },
+ {
+   "codigo": 560,
+   "nombre": "EXPRESS"
+ },
+ {
+   "codigo": 561,
+   "nombre": "EZLIFE"
+ },
+ {
+   "codigo": 562,
+   "nombre": "FAILING"
+ },
+ {
+   "codigo": 563,
+   "nombre": "FAMY"
+ },
+ {
+   "codigo": 564,
+   "nombre": "FEDERAL"
+ },
+ {
+   "codigo": 566,
+   "nombre": "FENCHI"
+ },
+ {
+   "codigo": 567,
+   "nombre": "FIAT ALLIS"
+ },
+ {
+   "codigo": 568,
+   "nombre": "FIORI"
+ },
+ {
+   "codigo": 569,
+   "nombre": "FONA"
+ },
+ {
+   "codigo": 570,
+   "nombre": "FORMULA"
+ },
+ {
+   "codigo": 571,
+   "nombre": "FUTURE"
+ },
+ {
+   "codigo": 572,
+   "nombre": "FWD"
+ },
+ {
+   "codigo": 573,
+   "nombre": "FYM"
+ },
+ {
+   "codigo": 574,
+   "nombre": "GALION"
+ },
+ {
+   "codigo": 575,
+   "nombre": "GAZELLE"
+ },
+ {
+   "codigo": 576,
+   "nombre": "GENERAL"
+ },
+ {
+   "codigo": 577,
+   "nombre": "GHA-2"
+ },
+ {
+   "codigo": 578,
+   "nombre": "GOLDEN DRAGON"
+ },
+ {
+   "codigo": 580,
+   "nombre": "GRAM"
+ },
+ {
+   "codigo": 581,
+   "nombre": "GROVE"
+ },
+ {
+   "codigo": 583,
+   "nombre": "HARDLAND"
+ },
+ {
+   "codigo": 584,
+   "nombre": "HARMON"
+ },
+ {
+   "codigo": 585,
+   "nombre": "HELI"
+ },
+ {
+   "codigo": 586,
+   "nombre": "HERRAGRO"
+ },
+ {
+   "codigo": 587,
+   "nombre": "HILIGHT"
+ },
+ {
+   "codigo": 588,
+   "nombre": "HISTER"
+ },
+ {
+   "codigo": 589,
+   "nombre": "HITACHI"
+ },
+ {
+   "codigo": 590,
+   "nombre": "HUBER"
+ },
+ {
+   "codigo": 591,
+   "nombre": "HUMMER ZONGSHEN"
+ },
+ {
+   "codigo": 592,
+   "nombre": "HYSTER"
+ },
+ {
+   "codigo": 593,
+   "nombre": "INCALCU"
+ },
+ {
+   "codigo": 594,
+   "nombre": "INDIAN CHIEF"
+ },
+ {
+   "codigo": 595,
+   "nombre": "INGERSOLL RAND"
+ },
+ {
+   "codigo": 596,
+   "nombre": "INVICTUS MOTORS"
+ },
+ {
+   "codigo": 597,
+   "nombre": "JACKEL"
+ },
+ {
+   "codigo": 598,
+   "nombre": "JAINSHE"
+ },
+ {
+   "codigo": 599,
+   "nombre": "JAVELINI"
+ },
+ {
+   "codigo": 600,
+   "nombre": "JCB"
+ },
+ {
+   "codigo": 601,
+   "nombre": "JHON DEERE"
+ },
+ {
+   "codigo": 602,
+   "nombre": "JHONSTON"
+ },
+ {
+   "codigo": 603,
+   "nombre": "JIANG CHANGHE"
+ },
+ {
+   "codigo": 604,
+   "nombre": "JIANGLING"
+ },
+ {
+   "codigo": 605,
+   "nombre": "JIANGNAN GLOW"
+ },
+ {
+   "codigo": 606,
+   "nombre": "JIANGSU KINROAD XINTIAN"
+ },
+ {
+   "codigo": 607,
+   "nombre": "JIANGXI CAMPELL CO."
+ },
+ {
+   "codigo": 608,
+   "nombre": "JINGLONG"
+ },
+ {
+   "codigo": 609,
+   "nombre": "JIRY SISU"
+ },
+ {
+   "codigo": 611,
+   "nombre": "KAISER"
+ },
+ {
+   "codigo": 612,
+   "nombre": "KALMAR"
+ },
+ {
+   "codigo": 613,
+   "nombre": "KAZUMA"
+ },
+ {
+   "codigo": 614,
+   "nombre": "KING LINFT"
+ },
+ {
+   "codigo": 616,
+   "nombre": "KITOMI"
+ },
+ {
+   "codigo": 617,
+   "nombre": "KOMATSU"
+ },
+ {
+   "codigo": 618,
+   "nombre": "KONCEO"
+ },
+ {
+   "codigo": 619,
+   "nombre": "KRAZ"
+ },
+ {
+   "codigo": 620,
+   "nombre": "KRUPP"
+ },
+ {
+   "codigo": 621,
+   "nombre": "LINCOLN"
+ },
+ {
+   "codigo": 622,
+   "nombre": "LITTLE GIANT"
+ },
+ {
+   "codigo": 623,
+   "nombre": "LIUGONG"
+ },
+ {
+   "codigo": 624,
+   "nombre": "LMX"
+ },
+ {
+   "codigo": 625,
+   "nombre": "LORAIN"
+ },
+ {
+   "codigo": 626,
+   "nombre": "MADVAC"
+ },
+ {
+   "codigo": 627,
+   "nombre": "MANCO"
+ },
+ {
+   "codigo": 628,
+   "nombre": "MARMON"
+ },
+ {
+   "codigo": 629,
+   "nombre": "MARUTI"
+ },
+ {
+   "codigo": 630,
+   "nombre": "MASEY FERGUSON"
+ },
+ {
+   "codigo": 631,
+   "nombre": "MATCHELSS"
+ },
+ {
+   "codigo": 633,
+   "nombre": "MC CORMICK"
+ },
+ {
+   "codigo": 634,
+   "nombre": "MERLO"
+ },
+ {
+   "codigo": 635,
+   "nombre": "META"
+ },
+ {
+   "codigo": 636,
+   "nombre": "MGB"
+ },
+ {
+   "codigo": 637,
+   "nombre": "MINI"
+ },
+ {
+   "codigo": 638,
+   "nombre": "MOTOBECAME"
+ },
+ {
+   "codigo": 639,
+   "nombre": "MV AGUSTA"
+ },
+ {
+   "codigo": 640,
+   "nombre": "NEW HOLLAN"
+ },
+ {
+   "codigo": 641,
+   "nombre": "NEW KING"
+ },
+ {
+   "codigo": 642,
+   "nombre": "NIMBUS"
+ },
+ {
+   "codigo": 643,
+   "nombre": "NON PLUS ULTRA"
+ },
+ {
+   "codigo": 644,
+   "nombre": "NUFFIELD"
+ },
+ {
+   "codigo": 645,
+   "nombre": "OAKLAND"
+ },
+ {
+   "codigo": 646,
+   "nombre": "OSHKOSH"
+ },
+ {
+   "codigo": 647,
+   "nombre": "P Y H"
+ },
+ {
+   "codigo": 648,
+   "nombre": "PARCE"
+ },
+ {
+   "codigo": 649,
+   "nombre": "PETTIBONE"
+ },
+ {
+   "codigo": 650,
+   "nombre": "PIAGGIO ZONGSHEN"
+ },
+ {
+   "codigo": 651,
+   "nombre": "POCLAIN"
+ },
+ {
+   "codigo": 652,
+   "nombre": "POWERMAX"
+ },
+ {
+   "codigo": 653,
+   "nombre": "QIANJIANG"
+ },
+ {
+   "codigo": 654,
+   "nombre": "RAMIREZ"
+ },
+ {
+   "codigo": 655,
+   "nombre": "RANGE ROVER"
+ },
+ {
+   "codigo": 656,
+   "nombre": "REVTECH"
+ },
+ {
+   "codigo": 657,
+   "nombre": "RLX"
+ },
+ {
+   "codigo": 658,
+   "nombre": "ROBUR"
+ },
+ {
+   "codigo": 659,
+   "nombre": "ROSCO"
+ },
+ {
+   "codigo": 660,
+   "nombre": "SAME"
+ },
+ {
+   "codigo": 661,
+   "nombre": "SANFENG"
+ },
+ {
+   "codigo": 663,
+   "nombre": "SAURON"
+ },
+ {
+   "codigo": 664,
+   "nombre": "SHANGHAI"
+ },
+ {
+   "codigo": 665,
+   "nombre": "SHINERAY"
+ },
+ {
+   "codigo": 666,
+   "nombre": "SINOTRUK HOWO"
+ },
+ {
+   "codigo": 667,
+   "nombre": "SKINGO"
+ },
+ {
+   "codigo": 668,
+   "nombre": "SKYMAX"
+ },
+ {
+   "codigo": 669,
+   "nombre": "SMC"
+ },
+ {
+   "codigo": 670,
+   "nombre": "STEYR DAIMLER PUCH"
+ },
+ {
+   "codigo": 671,
+   "nombre": "SUKIDA"
+ },
+ {
+   "codigo": 672,
+   "nombre": "SUM"
+ },
+ {
+   "codigo": 673,
+   "nombre": "SUNDIRO"
+ },
+ {
+   "codigo": 674,
+   "nombre": "TCM"
+ },
+ {
+   "codigo": 675,
+   "nombre": "TEREX"
+ },
+ {
+   "codigo": 676,
+   "nombre": "THUNDER CYCLE DESIGN"
+ },
+ {
+   "codigo": 677,
+   "nombre": "TONARO"
+ },
+ {
+   "codigo": 678,
+   "nombre": "TRIWIL"
+ },
+ {
+   "codigo": 679,
+   "nombre": "UNIMOG"
+ },
+ {
+   "codigo": 680,
+   "nombre": "UNIVERSAL"
+ },
+ {
+   "codigo": 681,
+   "nombre": "USA MOTORS"
+ },
+ {
+   "codigo": 682,
+   "nombre": "VALMET"
+ },
+ {
+   "codigo": 683,
+   "nombre": "VALTRA"
+ },
+ {
+   "codigo": 684,
+   "nombre": "VISAIL"
+ },
+ {
+   "codigo": 685,
+   "nombre": "VOGELE"
+ },
+ {
+   "codigo": 686,
+   "nombre": "WARZAWA"
+ },
+ {
+   "codigo": 687,
+   "nombre": "WESTERN STAR"
+ },
+ {
+   "codigo": 688,
+   "nombre": "WKT"
+ },
+ {
+   "codigo": 689,
+   "nombre": "XCMG"
+ },
+ {
+   "codigo": 690,
+   "nombre": "YALE"
+ },
+ {
+   "codigo": 691,
+   "nombre": "YAMASAKY"
+ },
+ {
+   "codigo": 692,
+   "nombre": "YIBEN"
+ },
+ {
+   "codigo": 693,
+   "nombre": "YONKANG XINGYUE"
+ },
+ {
+   "codigo": 694,
+   "nombre": "YUANDA"
+ },
+ {
+   "codigo": 695,
+   "nombre": "YUEJIN"
+ },
+ {
+   "codigo": 696,
+   "nombre": "YUMBO"
+ },
+ {
+   "codigo": 697,
+   "nombre": "ZEPHYR"
+ },
+ {
+   "codigo": 698,
+   "nombre": "ZETOR"
+ },
+ {
+   "codigo": 699,
+   "nombre": "ZHEJIANG HANGCHA"
+ },
+ {
+   "codigo": 700,
+   "nombre": "ZHENG LI"
+ },
+ {
+   "codigo": 701,
+   "nombre": "ZID"
+ },
+ {
+   "codigo": 702,
+   "nombre": "ZIGMA"
+ },
+ {
+   "codigo": 703,
+   "nombre": "ZIP STAR"
+ },
+ {
+   "codigo": 704,
+   "nombre": "ZODIAC"
+ },
+ {
+   "codigo": 705,
+   "nombre": "ZUNK"
+ },
+ {
+   "codigo": 708,
+   "nombre": "CARBONER"
+ },
+ {
+   "codigo": 709,
+   "nombre": "BUGGY"
+ },
+ {
+   "codigo": 710,
+   "nombre": "CACIQUE"
+ },
+ {
+   "codigo": 711,
+   "nombre": "RHINO"
+ },
+ {
+   "codigo": 712,
+   "nombre": "BELL"
+ },
+ {
+   "codigo": 713,
+   "nombre": "FURUKAWA"
+ },
+ {
+   "codigo": 714,
+   "nombre": "ISEKI"
+ },
+ {
+   "codigo": 715,
+   "nombre": "KATO"
+ },
+ {
+   "codigo": 716,
+   "nombre": "KOBELCO"
+ },
+ {
+   "codigo": 717,
+   "nombre": "LEE BOY"
+ },
+ {
+   "codigo": 718,
+   "nombre": "LINK BELT"
+ },
+ {
+   "codigo": 719,
+   "nombre": "MARINI"
+ },
+ {
+   "codigo": 720,
+   "nombre": "MATBRO"
+ },
+ {
+   "codigo": 722,
+   "nombre": "PANZER"
+ },
+ {
+   "codigo": 724,
+   "nombre": "PINZ GAUER"
+ },
+ {
+   "codigo": 725,
+   "nombre": "PIQUERSA"
+ },
+ {
+   "codigo": 726,
+   "nombre": "TADANO"
+ },
+ {
+   "codigo": 727,
+   "nombre": "CCITTA REBEL"
+ },
+ {
+   "codigo": 728,
+   "nombre": "DELKRON"
+ },
+ {
+   "codigo": 729,
+   "nombre": "DESTA"
+ },
+ {
+   "codigo": 730,
+   "nombre": "JINBEI"
+ },
+ {
+   "codigo": 731,
+   "nombre": "JINGPIN"
+ },
+ {
+   "codigo": 732,
+   "nombre": "KAELBLE"
+ },
+ {
+   "codigo": 733,
+   "nombre": "L.R."
+ },
+ {
+   "codigo": 734,
+   "nombre": "LIMA"
+ },
+ {
+   "codigo": 735,
+   "nombre": "MOBILIFT"
+ },
+ {
+   "codigo": 736,
+   "nombre": "OSSA"
+ },
+ {
+   "codigo": 737,
+   "nombre": "PHW"
+ },
+ {
+   "codigo": 738,
+   "nombre": "STAVOSTROJ"
+ },
+ {
+   "codigo": 739,
+   "nombre": "TCUMSON"
+ },
+ {
+   "codigo": 740,
+   "nombre": "TENNAN"
+ },
+ {
+   "codigo": 741,
+   "nombre": "TOWMOTOR"
+ },
+ {
+   "codigo": 742,
+   "nombre": "VERKHOVINA"
+ },
+ {
+   "codigo": 743,
+   "nombre": "VOSJOB"
+ },
+ {
+   "codigo": 744,
+   "nombre": "HORNET"
+ },
+ {
+   "codigo": 745,
+   "nombre": "ZUNDAPP"
+ },
+ {
+   "codigo": 746,
+   "nombre": "CZ"
+ },
+ {
+   "codigo": 747,
+   "nombre": "DANUVIA"
+ },
+ {
+   "codigo": 748,
+   "nombre": "CEZET"
+ },
+ {
+   "codigo": 749,
+   "nombre": "GO KART"
+ },
+ {
+   "codigo": 750,
+   "nombre": "MASERATI"
+ },
+ {
+   "codigo": 751,
+   "nombre": "AC"
+ },
+ {
+   "codigo": 752,
+   "nombre": "AG"
+ },
+ {
+   "codigo": 753,
+   "nombre": "ALFARO"
+ },
+ {
+   "codigo": 754,
+   "nombre": "ALVIS"
+ },
+ {
+   "codigo": 755,
+   "nombre": "AMPHICAR"
+ },
+ {
+   "codigo": 756,
+   "nombre": "AMPLE"
+ },
+ {
+   "codigo": 757,
+   "nombre": "APOLLO"
+ },
+ {
+   "codigo": 758,
+   "nombre": "ARABELLA"
+ },
+ {
+   "codigo": 759,
+   "nombre": "ASPT"
+ },
+ {
+   "codigo": 760,
+   "nombre": "AUTOKRAFT"
+ },
+ {
+   "codigo": 761,
+   "nombre": "AYCO ZONGSHEN"
+ },
+ {
+   "codigo": 762,
+   "nombre": "BAIKANCAR"
+ },
+ {
+   "codigo": 763,
+   "nombre": "BAKER"
+ },
+ {
+   "codigo": 764,
+   "nombre": "BANTAM"
+ },
+ {
+   "codigo": 765,
+   "nombre": "BENELLI"
+ },
+ {
+   "codigo": 766,
+   "nombre": "BOSA BOSHIE NIKE"
+ },
+ {
+   "codigo": 767,
+   "nombre": "BRAND"
+ },
+ {
+   "codigo": 768,
+   "nombre": "BRISA"
+ },
+ {
+   "codigo": 769,
+   "nombre": "C.C.C."
+ },
+ {
+   "codigo": 770,
+   "nombre": "CAMC"
+ },
+ {
+   "codigo": 771,
+   "nombre": "CENTAURS"
+ },
+ {
+   "codigo": 772,
+   "nombre": "CHINA MOTORCYCLES"
+ },
+ {
+   "codigo": 773,
+   "nombre": "CHITUMA"
+ },
+ {
+   "codigo": 774,
+   "nombre": "CLAUSSON"
+ },
+ {
+   "codigo": 775,
+   "nombre": "COLT LANCER"
+ },
+ {
+   "codigo": 776,
+   "nombre": "CONSUL"
+ },
+ {
+   "codigo": 777,
+   "nombre": "CROSLEY"
+ },
+ {
+   "codigo": 778,
+   "nombre": "CRUISERN"
+ },
+ {
+   "codigo": 779,
+   "nombre": "DACC"
+ },
+ {
+   "codigo": 780,
+   "nombre": "DAF"
+ },
+ {
+   "codigo": 781,
+   "nombre": "DAIMLER BENZ"
+ },
+ {
+   "codigo": 782,
+   "nombre": "DASHA"
+ },
+ {
+   "codigo": 783,
+   "nombre": "DE LA HAYE"
+ },
+ {
+   "codigo": 784,
+   "nombre": "DEMAG"
+ },
+ {
+   "codigo": 785,
+   "nombre": "DIVICO"
+ },
+ {
+   "codigo": 786,
+   "nombre": "DTV"
+ },
+ {
+   "codigo": 787,
+   "nombre": "ECO CITI"
+ },
+ {
+   "codigo": 788,
+   "nombre": "EL SOL"
+ },
+ {
+   "codigo": 789,
+   "nombre": "ELEPHANT POWER"
+ },
+ {
+   "codigo": 790,
+   "nombre": "EM"
+ },
+ {
+   "codigo": 791,
+   "nombre": "EP"
+ },
+ {
+   "codigo": 792,
+   "nombre": "E-TON"
+ },
+ {
+   "codigo": 793,
+   "nombre": "EZGO"
+ },
+ {
+   "codigo": 794,
+   "nombre": "F.N"
+ },
+ {
+   "codigo": 795,
+   "nombre": "FANTIC"
+ },
+ {
+   "codigo": 796,
+   "nombre": "FARSPEED"
+ },
+ {
+   "codigo": 797,
+   "nombre": "FIBRAVAN"
+ },
+ {
+   "codigo": 798,
+   "nombre": "FLEXIBLE"
+ },
+ {
+   "codigo": 799,
+   "nombre": "FRAZER"
+ },
+ {
+   "codigo": 800,
+   "nombre": "FULDAMOBIL"
+ },
+ {
+   "codigo": 801,
+   "nombre": "GERLING"
+ },
+ {
+   "codigo": 802,
+   "nombre": "GOGOMOVIL"
+ },
+ {
+   "codigo": 803,
+   "nombre": "GRAHAN PAUGE"
+ },
+ {
+   "codigo": 804,
+   "nombre": "GRANE CARRIER"
+ },
+ {
+   "codigo": 805,
+   "nombre": "GREMLIN"
+ },
+ {
+   "codigo": 806,
+   "nombre": "GRUBER"
+ },
+ {
+   "codigo": 807,
+   "nombre": "HALLA"
+ },
+ {
+   "codigo": 808,
+   "nombre": "HAOJUE"
+ },
+ {
+   "codigo": 809,
+   "nombre": "HESTIA"
+ },
+ {
+   "codigo": 810,
+   "nombre": "HOSIN SOPORTER"
+ },
+ {
+   "codigo": 811,
+   "nombre": "HUAWIN"
+ },
+ {
+   "codigo": 812,
+   "nombre": "HUPMOBILE"
+ },
+ {
+   "codigo": 813,
+   "nombre": "HUSABERG"
+ },
+ {
+   "codigo": 814,
+   "nombre": "I.M.V"
+ },
+ {
+   "codigo": 815,
+   "nombre": "IKARUS"
+ },
+ {
+   "codigo": 816,
+   "nombre": "ISLO"
+ },
+ {
+   "codigo": 817,
+   "nombre": "JIN JIAN"
+ },
+ {
+   "codigo": 818,
+   "nombre": "JUMBO DE LLANTAS"
+ },
+ {
+   "codigo": 819,
+   "nombre": "JUNGHEINRICH"
+ },
+ {
+   "codigo": 820,
+   "nombre": "KANABIS"
+ },
+ {
+   "codigo": 821,
+   "nombre": "KARPETAN"
+ },
+ {
+   "codigo": 822,
+   "nombre": "KOMAR"
+ },
+ {
+   "codigo": 823,
+   "nombre": "KONTIO SISO"
+ },
+ {
+   "codigo": 824,
+   "nombre": "KROSON SOPORTES"
+ },
+ {
+   "codigo": 825,
+   "nombre": "L.A.I"
+ },
+ {
+   "codigo": 826,
+   "nombre": "LEE SCUSTÓN COACHES"
+ },
+ {
+   "codigo": 827,
+   "nombre": "LEY LAND"
+ },
+ {
+   "codigo": 828,
+   "nombre": "LIANMEI MOTOR"
+ },
+ {
+   "codigo": 829,
+   "nombre": "LIBA MOTOR"
+ },
+ {
+   "codigo": 830,
+   "nombre": "LINDE"
+ },
+ {
+   "codigo": 831,
+   "nombre": "LINGBEN"
+ },
+ {
+   "codigo": 832,
+   "nombre": "M.G.U"
+ },
+ {
+   "codigo": 833,
+   "nombre": "MARCHETTI"
+ },
+ {
+   "codigo": 834,
+   "nombre": "MARQUASS"
+ },
+ {
+   "codigo": 835,
+   "nombre": "MASTER CRAFT"
+ },
+ {
+   "codigo": 836,
+   "nombre": "MAXWELL"
+ },
+ {
+   "codigo": 837,
+   "nombre": "MAYFLOWER"
+ },
+ {
+   "codigo": 838,
+   "nombre": "MAZAKI"
+ },
+ {
+   "codigo": 839,
+   "nombre": "MG MIDGET"
+ },
+ {
+   "codigo": 840,
+   "nombre": "MNHCK"
+ },
+ {
+   "codigo": 841,
+   "nombre": "MOBYLESTTE"
+ },
+ {
+   "codigo": 842,
+   "nombre": "MONIKA"
+ },
+ {
+   "codigo": 843,
+   "nombre": "MOTOCARRIER"
+ },
+ {
+   "codigo": 844,
+   "nombre": "MUDAN"
+ },
+ {
+   "codigo": 845,
+   "nombre": "MUHCK"
+ },
+ {
+   "codigo": 846,
+   "nombre": "N.S.U"
+ },
+ {
+   "codigo": 847,
+   "nombre": "NEUTRAL"
+ },
+ {
+   "codigo": 848,
+   "nombre": "NEW HYSTER"
+ },
+ {
+   "codigo": 849,
+   "nombre": "NYK"
+ },
+ {
+   "codigo": 850,
+   "nombre": "ORANGE COUNTY CHOPPERS"
+ },
+ {
+   "codigo": 851,
+   "nombre": "ORION"
+ },
+ {
+   "codigo": 852,
+   "nombre": "PASSO"
+ },
+ {
+   "codigo": 853,
+   "nombre": "PEXMA"
+ },
+ {
+   "codigo": 854,
+   "nombre": "PLANETA"
+ },
+ {
+   "codigo": 855,
+   "nombre": "POWER WAGON"
+ },
+ {
+   "codigo": 856,
+   "nombre": "PREFECT"
+ },
+ {
+   "codigo": 857,
+   "nombre": "RABBIT"
+ },
+ {
+   "codigo": 858,
+   "nombre": "REVA"
+ },
+ {
+   "codigo": 859,
+   "nombre": "ROSENBAUER"
+ },
+ {
+   "codigo": 860,
+   "nombre": "SAAB"
+ },
+ {
+   "codigo": 861,
+   "nombre": "SANDI"
+ },
+ {
+   "codigo": 862,
+   "nombre": "SANGLIN"
+ },
+ {
+   "codigo": 863,
+   "nombre": "SAURER"
+ },
+ {
+   "codigo": 864,
+   "nombre": "SCAMMELL"
+ },
+ {
+   "codigo": 865,
+   "nombre": "SEAGRAVE"
+ },
+ {
+   "codigo": 866,
+   "nombre": "SERVAL"
+ },
+ {
+   "codigo": 867,
+   "nombre": "SHANGLI"
+ },
+ {
+   "codigo": 868,
+   "nombre": "SHANYANG"
+ },
+ {
+   "codigo": 869,
+   "nombre": "SHERPA"
+ },
+ {
+   "codigo": 870,
+   "nombre": "SHUANGHUAN"
+ },
+ {
+   "codigo": 871,
+   "nombre": "SHUANGSHI"
+ },
+ {
+   "codigo": 872,
+   "nombre": "SKYTEAM"
+ },
+ {
+   "codigo": 873,
+   "nombre": "SOLARI"
+ },
+ {
+   "codigo": 874,
+   "nombre": "SONIKA"
+ },
+ {
+   "codigo": 875,
+   "nombre": "SONZINI"
+ },
+ {
+   "codigo": 876,
+   "nombre": "SOYAT"
+ },
+ {
+   "codigo": 877,
+   "nombre": "SP@ZZIO"
+ },
+ {
+   "codigo": 878,
+   "nombre": "SRFHUAIGE"
+ },
+ {
+   "codigo": 879,
+   "nombre": "SST"
+ },
+ {
+   "codigo": 880,
+   "nombre": "STEINBOCK"
+ },
+ {
+   "codigo": 881,
+   "nombre": "STIRES VM"
+ },
+ {
+   "codigo": 882,
+   "nombre": "SUMO"
+ },
+ {
+   "codigo": 883,
+   "nombre": "SUNASA QINGQI"
+ },
+ {
+   "codigo": 884,
+   "nombre": "SUPERMOTO"
+ },
+ {
+   "codigo": 885,
+   "nombre": "TALBOT"
+ },
+ {
+   "codigo": 886,
+   "nombre": "TANTA"
+ },
+ {
+   "codigo": 887,
+   "nombre": "TATRA"
+ },
+ {
+   "codigo": 888,
+   "nombre": "TEMPO"
+ },
+ {
+   "codigo": 889,
+   "nombre": "TGA-200-G"
+ },
+ {
+   "codigo": 890,
+   "nombre": "TMD"
+ },
+ {
+   "codigo": 891,
+   "nombre": "TONGYU"
+ },
+ {
+   "codigo": 892,
+   "nombre": "TOYOPET"
+ },
+ {
+   "codigo": 893,
+   "nombre": "TULA"
+ },
+ {
+   "codigo": 894,
+   "nombre": "UFO"
+ },
+ {
+   "codigo": 895,
+   "nombre": "VALIANT"
+ },
+ {
+   "codigo": 896,
+   "nombre": "VALKYRIE"
+ },
+ {
+   "codigo": 897,
+   "nombre": "VANGUARD"
+ },
+ {
+   "codigo": 898,
+   "nombre": "VOGUE"
+ },
+ {
+   "codigo": 899,
+   "nombre": "VONROAD"
+ },
+ {
+   "codigo": 900,
+   "nombre": "WAGONNER"
+ },
+ {
+   "codigo": 901,
+   "nombre": "WAJAX"
+ },
+ {
+   "codigo": 902,
+   "nombre": "WINCHEMG"
+ },
+ {
+   "codigo": 903,
+   "nombre": "WLLHELMSHAVEN"
+ },
+ {
+   "codigo": 904,
+   "nombre": "WORD LA FRANCE"
+ },
+ {
+   "codigo": 905,
+   "nombre": "WORLDSTAR"
+ },
+ {
+   "codigo": 906,
+   "nombre": "WSK"
+ },
+ {
+   "codigo": 907,
+   "nombre": "XINGLING"
+ },
+ {
+   "codigo": 908,
+   "nombre": "XINLING"
+ },
+ {
+   "codigo": 909,
+   "nombre": "XINTIAN KINROAD"
+ },
+ {
+   "codigo": 910,
+   "nombre": "XSG ING QIJITUA"
+ },
+ {
+   "codigo": 911,
+   "nombre": "YLM"
+ },
+ {
+   "codigo": 912,
+   "nombre": "ZENA"
+ },
+ {
+   "codigo": 913,
+   "nombre": "ZHAN"
+ },
+ {
+   "codigo": 914,
+   "nombre": "ZHONGNENG"
+ },
+ {
+   "codigo": 915,
+   "nombre": "ZHONGYU"
+ },
+ {
+   "codigo": 916,
+   "nombre": "ZIU"
+ },
+ {
+   "codigo": 917,
+   "nombre": "ZQ MOTORS"
+ },
+ {
+   "codigo": 918,
+   "nombre": "ZUK"
+ },
+ {
+   "codigo": 919,
+   "nombre": "ZUK NYSA"
+ },
+ {
+   "codigo": 920,
+   "nombre": "ALL STATE"
+ },
+ {
+   "codigo": 921,
+   "nombre": "ALLARD"
+ },
+ {
+   "codigo": 922,
+   "nombre": "HONGXING NOBLE"
+ },
+ {
+   "codigo": 923,
+   "nombre": "CIXI KONCEO"
+ },
+ {
+   "codigo": 924,
+   "nombre": "HAOJIANG"
+ },
+ {
+   "codigo": 925,
+   "nombre": "PRATOO Y FORNE"
+ },
+ {
+   "codigo": 926,
+   "nombre": "REGAL RAPTOR"
+ },
+ {
+   "codigo": 927,
+   "nombre": "WEST WARRIOR"
+ },
+ {
+   "codigo": 928,
+   "nombre": "AEOLUS"
+ },
+ {
+   "codigo": 929,
+   "nombre": "AUTO BIANCHI"
+ },
+ {
+   "codigo": 930,
+   "nombre": "BAW ZHAN QI"
+ },
+ {
+   "codigo": 931,
+   "nombre": "FODEN"
+ },
+ {
+   "codigo": 932,
+   "nombre": "IFG"
+ },
+ {
+   "codigo": 933,
+   "nombre": "JINLING"
+ },
+ {
+   "codigo": 934,
+   "nombre": "LLOYD"
+ },
+ {
+   "codigo": 935,
+   "nombre": "LUAZ"
+ },
+ {
+   "codigo": 936,
+   "nombre": "PANDA CHUNZOHN"
+ },
+ {
+   "codigo": 937,
+   "nombre": "PAZ"
+ },
+ {
+   "codigo": 938,
+   "nombre": "ROCAR"
+ },
+ {
+   "codigo": 939,
+   "nombre": "ROMAN"
+ },
+ {
+   "codigo": 940,
+   "nombre": "SCOUTY"
+ },
+ {
+   "codigo": 941,
+   "nombre": "SKANIA VABIF"
+ },
+ {
+   "codigo": 942,
+   "nombre": "SSANGYANG"
+ },
+ {
+   "codigo": 943,
+   "nombre": "STAR"
+ },
+ {
+   "codigo": 944,
+   "nombre": "STUTZ"
+ },
+ {
+   "codigo": 945,
+   "nombre": "T.J.C."
+ },
+ {
+   "codigo": 946,
+   "nombre": "TANDEM"
+ },
+ {
+   "codigo": 947,
+   "nombre": "TONGBAO"
+ },
+ {
+   "codigo": 948,
+   "nombre": "TRADER"
+ },
+ {
+   "codigo": 949,
+   "nombre": "UNDERBONE"
+ },
+ {
+   "codigo": 950,
+   "nombre": "VEDETTE"
+ },
+ {
+   "codigo": 951,
+   "nombre": "VOSHUD"
+ },
+ {
+   "codigo": 952,
+   "nombre": "YITAKI"
+ },
+ {
+   "codigo": 953,
+   "nombre": "ZHONGHUA"
+ },
+ {
+   "codigo": 954,
+   "nombre": "STERLING"
+ },
+ {
+   "codigo": 955,
+   "nombre": "THOMAS"
+ },
+ {
+   "codigo": 956,
+   "nombre": "BOMAG"
+ },
+ {
+   "codigo": 957,
+   "nombre": "SANY"
+ },
+ {
+   "codigo": 958,
+   "nombre": "AUTECO BAJAJ"
+ },
+ {
+   "codigo": 959,
+   "nombre": "AUTECO KYMCO"
+ },
+ {
+   "codigo": 960,
+   "nombre": "DRESSER HAULPAK"
+ },
+ {
+   "codigo": 961,
+   "nombre": "MAZ"
+ },
+ {
+   "codigo": 962,
+   "nombre": "MOXI"
+ },
+ {
+   "codigo": 963,
+   "nombre": "PERLINI"
+ },
+ {
+   "codigo": 964,
+   "nombre": "HOREX"
+ },
+ {
+   "codigo": 965,
+   "nombre": "LIEBHERR"
+ },
+ {
+   "codigo": 966,
+   "nombre": "FIVER"
+ },
+ {
+   "codigo": 967,
+   "nombre": "YUTONG"
+ },
+ {
+   "codigo": 968,
+   "nombre": "WANHU"
+ },
+ {
+   "codigo": 969,
+   "nombre": "MALAGUTI"
+ },
+ {
+   "codigo": 970,
+   "nombre": "ARCTIC CAT"
+ },
+ {
+   "codigo": 971,
+   "nombre": "DCEC"
+ },
+ {
+   "codigo": 972,
+   "nombre": "TOURING"
+ },
+ {
+   "codigo": 973,
+   "nombre": "HIGER"
+ },
+ {
+   "codigo": 974,
+   "nombre": "MGU"
+ },
+ {
+   "codigo": 975,
+   "nombre": "CFMOTO"
+ },
+ {
+   "codigo": 976,
+   "nombre": "TEMPEST"
+ },
+ {
+   "codigo": 977,
+   "nombre": "FUXIN"
+ },
+ {
+   "codigo": 978,
+   "nombre": "XRP SAIN"
+ },
+ {
+   "codigo": 979,
+   "nombre": "HENSIM"
+ },
+ {
+   "codigo": 980,
+   "nombre": "SANLEE"
+ },
+ {
+   "codigo": 981,
+   "nombre": "AUTECO VICTORY"
+ },
+ {
+   "codigo": 982,
+   "nombre": "TEAM RYDER"
+ },
+ {
+   "codigo": 983,
+   "nombre": "HUALIN"
+ },
+ {
+   "codigo": 984,
+   "nombre": "SHACMAN"
+ },
+ {
+   "codigo": 985,
+   "nombre": "BOUE"
+ },
+ {
+   "codigo": 986,
+   "nombre": "AVA MOTORS"
+ },
+ {
+   "codigo": 987,
+   "nombre": "SUMA"
+ },
+ {
+   "codigo": 988,
+   "nombre": "SM"
+ },
+ {
+   "codigo": 989,
+   "nombre": "BARHOG/DADYW"
+ },
+ {
+   "codigo": 990,
+   "nombre": "MOTOKART"
+ },
+ {
+   "codigo": 991,
+   "nombre": "MANZINI"
+ },
+ {
+   "codigo": 992,
+   "nombre": "YONGKANG EASY VEHICLE"
+ },
+ {
+   "codigo": 993,
+   "nombre": "MITSUBISHI FUSO"
+ },
+ {
+   "codigo": 994,
+   "nombre": "ISHIMOTO"
+ },
+ {
+   "codigo": 995,
+   "nombre": "ASA"
+ },
+ {
+   "codigo": 996,
+   "nombre": "ESSEX"
+ },
+ {
+   "codigo": 997,
+   "nombre": "KHOOBRA"
+ },
+ {
+   "codigo": 998,
+   "nombre": "YAKEY"
+ },
+ {
+   "codigo": 999,
+   "nombre": "GREENWHEEL"
+ },
+ {
+   "codigo": 1000,
+   "nombre": "TORNADO"
+ },
+ {
+   "codigo": 1001,
+   "nombre": "HAIMA"
+ },
+ {
+   "codigo": 1002,
+   "nombre": "SMA"
+ },
+ {
+   "codigo": 1003,
+   "nombre": "VOLDA"
+ },
+ {
+   "codigo": 1004,
+   "nombre": "HISUN TIGER"
+ },
+ {
+   "codigo": 1006,
+   "nombre": "TRACTOCASA"
+ },
+ {
+   "codigo": 1007,
+   "nombre": "AWS - ALIEN WORK SHOP"
+ },
+ {
+   "codigo": 1008,
+   "nombre": "JIANGSU SINSKI"
+ },
+ {
+   "codigo": 1009,
+   "nombre": "LINGKEN"
+ },
+ {
+   "codigo": 1010,
+   "nombre": "YGM"
+ },
+ {
+   "codigo": 1011,
+   "nombre": "WANCH"
+ },
+ {
+   "codigo": 1012,
+   "nombre": "TAO TAO"
+ },
+ {
+   "codigo": 1013,
+   "nombre": "GALAXI"
+ },
+ {
+   "codigo": 1014,
+   "nombre": "PACIFIC"
+ },
+ {
+   "codigo": 1015,
+   "nombre": "BYVIN"
+ },
+ {
+   "codigo": 1016,
+   "nombre": "JIASHITE"
+ },
+ {
+   "codigo": 1017,
+   "nombre": "ENERGY MOTION"
+ },
+ {
+   "codigo": 1018,
+   "nombre": "HPOWER"
+ },
+ {
+   "codigo": 1019,
+   "nombre": "YADEA"
+ },
+ {
+   "codigo": 1020,
+   "nombre": "JLC"
+ },
+ {
+   "codigo": 1021,
+   "nombre": "ADVANCE"
+ },
+ {
+   "codigo": 1022,
+   "nombre": "JIAJUE"
+ },
+ {
+   "codigo": 1023,
+   "nombre": "ETX"
+ },
+ {
+   "codigo": 1024,
+   "nombre": "JBC"
+ },
+ {
+   "codigo": 1025,
+   "nombre": "DFA"
+ },
+ {
+   "codigo": 1026,
+   "nombre": "E-ONE"
+ },
+ {
+   "codigo": 1027,
+   "nombre": "DETROIT"
+ },
+ {
+   "codigo": 1028,
+   "nombre": "KMO"
+ },
+ {
+   "codigo": 1029,
+   "nombre": "HUNTER"
+ },
+ {
+   "codigo": 1030,
+   "nombre": "THOMAS BUILT BUSES"
+ },
+ {
+   "codigo": 1031,
+   "nombre": "LOVOL"
+ },
+ {
+   "codigo": 1032,
+   "nombre": "D LONG"
+ },
+ {
+   "codigo": 1033,
+   "nombre": "TAYLOR DUNN"
+ },
+ {
+   "codigo": 1034,
+   "nombre": "HAORI"
+ },
+ {
+   "codigo": 1035,
+   "nombre": "SHELBY"
+ },
+ {
+   "codigo": 1036,
+   "nombre": "VMOTO"
+ },
+ {
+   "codigo": 1037,
+   "nombre": "CARPATI"
+ },
+ {
+   "codigo": 1038,
+   "nombre": "LUCKY LION"
+ },
+ {
+   "codigo": 1039,
+   "nombre": "CLC MOTOR"
+ },
+ {
+   "codigo": 1040,
+   "nombre": "MAHINDRA DURO"
+ },
+ {
+   "codigo": 1041,
+   "nombre": "BENLING"
+ },
+ {
+   "codigo": 1042,
+   "nombre": "OULING"
+ },
+ {
+   "codigo": 1043,
+   "nombre": "YAXING"
+ },
+ {
+   "codigo": 1044,
+   "nombre": "HANLING"
+ },
+ {
+   "codigo": 1045,
+   "nombre": "ZNA"
+ },
+ {
+   "codigo": 1046,
+   "nombre": "HUANGHAI"
+ },
+ {
+   "codigo": 1047,
+   "nombre": "DADI"
+ },
+ {
+   "codigo": 1048,
+   "nombre": "KING LONG"
+ },
+ {
+   "codigo": 1049,
+   "nombre": "ESCORPIO"
+ },
+ {
+   "codigo": 1050,
+   "nombre": "DFSK"
+ },
+ {
+   "codigo": 1051,
+   "nombre": "OLIYA"
+ },
+ {
+   "codigo": 1052,
+   "nombre": "GSMOON"
+ },
+ {
+   "codigo": 1053,
+   "nombre": "BERA"
+ },
+ {
+   "codigo": 1054,
+   "nombre": "XGJAO"
+ },
+ {
+   "codigo": 1055,
+   "nombre": "SENKE"
+ },
+ {
+   "codigo": 1056,
+   "nombre": "LANGQING"
+ },
+ {
+   "codigo": 1057,
+   "nombre": "AWS"
+ },
+ {
+   "codigo": 1058,
+   "nombre": "HONOR"
+ },
+ {
+   "codigo": 1059,
+   "nombre": "JAUNCE"
+ },
+ {
+   "codigo": 1060,
+   "nombre": "ZILI MOTORS"
+ },
+ {
+   "codigo": 1061,
+   "nombre": "ALFA"
+ },
+ {
+   "codigo": 1062,
+   "nombre": "ASIA HERO"
+ },
+ {
+   "codigo": 1063,
+   "nombre": "SINOTRUK"
+ },
+ {
+   "codigo": 1064,
+   "nombre": "POLARSUN"
+ },
+ {
+   "codigo": 1065,
+   "nombre": "UD TRUCKS"
+ },
+ {
+   "codigo": 1066,
+   "nombre": "JUNCHI"
+ },
+ {
+   "codigo": 1067,
+   "nombre": "SELVAXTREMA"
+ },
+ {
+   "codigo": 1068,
+   "nombre": "MOFFETT"
+ },
+ {
+   "codigo": 1069,
+   "nombre": "FASTER"
+ },
+ {
+   "codigo": 1070,
+   "nombre": "MIKILON"
+ },
+ {
+   "codigo": 1071,
+   "nombre": "SANYOU"
+ },
+ {
+   "codigo": 1072,
+   "nombre": "GAME"
+ },
+ {
+   "codigo": 1073,
+   "nombre": "FENIX"
+ },
+ {
+   "codigo": 1074,
+   "nombre": "INDUSTRY"
+ },
+ {
+   "codigo": 1075,
+   "nombre": "GBMCO"
+ },
+ {
+   "codigo": 1076,
+   "nombre": "GVMCO"
+ },
+ {
+   "codigo": 1077,
+   "nombre": "HSUN"
+ },
+ {
+   "codigo": 1078,
+   "nombre": "T-KING"
+ },
+ {
+   "codigo": 1079,
+   "nombre": "SEIKI"
+ },
+ {
+   "codigo": 1080,
+   "nombre": "HEIL TRAILER INTERNATIONAL"
+ },
+ {
+   "codigo": 1081,
+   "nombre": "PPM"
+ },
+ {
+   "codigo": 1082,
+   "nombre": "PAILISON"
+ },
+ {
+   "codigo": 1083,
+   "nombre": "ROAD SPORT"
+ },
+ {
+   "codigo": 1084,
+   "nombre": "ZOOMLION"
+ },
+ {
+   "codigo": 1085,
+   "nombre": "JINLUN"
+ },
+ {
+   "codigo": 1086,
+   "nombre": "RENLI"
+ },
+ {
+   "codigo": 1087,
+   "nombre": "SHERCO"
+ },
+ {
+   "codigo": 1088,
+   "nombre": "HARRIS"
+ },
+ {
+   "codigo": 1089,
+   "nombre": "AGUILA"
+ },
+ {
+   "codigo": 1090,
+   "nombre": "HIOSUNG"
+ },
+ {
+   "codigo": 1091,
+   "nombre": "MIGARGI"
+ },
+ {
+   "codigo": 1092,
+   "nombre": "WINDAR"
+ },
+ {
+   "codigo": 1093,
+   "nombre": "SHIFENG"
+ },
+ {
+   "codigo": 1094,
+   "nombre": "E- MAX"
+ },
+ {
+   "codigo": 1095,
+   "nombre": "HERSA"
+ },
+ {
+   "codigo": 1096,
+   "nombre": "SULTANA"
+ },
+ {
+   "codigo": 1097,
+   "nombre": "CARTER"
+ },
+ {
+   "codigo": 1098,
+   "nombre": "EMPIRE"
+ },
+ {
+   "codigo": 1099,
+   "nombre": "VDL"
+ },
+ {
+   "codigo": 1100,
+   "nombre": "CNJ"
+ },
+ {
+   "codigo": 1101,
+   "nombre": "TAYRONA"
+ },
+ {
+   "codigo": 1102,
+   "nombre": "SHAANQI"
+ },
+ {
+   "codigo": 1103,
+   "nombre": "RG"
+ },
+ {
+   "codigo": 1104,
+   "nombre": "TARANTULA"
+ },
+ {
+   "codigo": 1105,
+   "nombre": "UPBEAT MOTOR"
+ },
+ {
+   "codigo": 1106,
+   "nombre": "JEREH"
+ },
+ {
+   "codigo": 1107,
+   "nombre": "CHALLENGER LOWBOY"
+ },
+ {
+   "codigo": 1108,
+   "nombre": "MOTOABC"
+ },
+ {
+   "codigo": 1109,
+   "nombre": "BLUE BIRD"
+ },
+ {
+   "codigo": 1110,
+   "nombre": "GREENTRANS"
+ },
+ {
+   "codigo": 1111,
+   "nombre": "SHANDONG"
+ },
+ {
+   "codigo": 1112,
+   "nombre": "MODASA"
+ },
+ {
+   "codigo": 1113,
+   "nombre": "RTM"
+ },
+ {
+   "codigo": 1114,
+   "nombre": "CVT RATO"
+ },
+ {
+   "codigo": 1115,
+   "nombre": "ATV RATO"
+ },
+ {
+   "codigo": 1116,
+   "nombre": "KAMAJI"
+ },
+ {
+   "codigo": 1117,
+   "nombre": "FOSHAN CITYFOSTI"
+ },
+ {
+   "codigo": 1118,
+   "nombre": "HME"
+ },
+ {
+   "codigo": 1119,
+   "nombre": "S/M FAB"
+ },
+ {
+   "codigo": 1120,
+   "nombre": "DANDONG HUANGHAI"
+ },
+ {
+   "codigo": 1121,
+   "nombre": "ZONDA SOL"
+ },
+ {
+   "codigo": 1122,
+   "nombre": "KING STEYR"
+ },
+ {
+   "codigo": 1123,
+   "nombre": "HYDUKE"
+ },
+ {
+   "codigo": 1124,
+   "nombre": "BON LUCK"
+ },
+ {
+   "codigo": 1125,
+   "nombre": "AM GENERAL"
+ },
+ {
+   "codigo": 1126,
+   "nombre": "SHENKE"
+ },
+ {
+   "codigo": 1127,
+   "nombre": "BEI BEN"
+ },
+ {
+   "codigo": 1128,
+   "nombre": "FRANKS"
+ },
+ {
+   "codigo": 1129,
+   "nombre": "SIMON DUPLEX"
+ },
+ {
+   "codigo": 1130,
+   "nombre": "KAXAMOTOS"
+ },
+ {
+   "codigo": 1131,
+   "nombre": "CAN AM BOMBARDIER"
+ },
+ {
+   "codigo": 1132,
+   "nombre": "FEIZHEN"
+ },
+ {
+   "codigo": 1133,
+   "nombre": "VAISAND"
+ },
+ {
+   "codigo": 1134,
+   "nombre": "DFAC-DONG FENG"
+ },
+ {
+   "codigo": 1135,
+   "nombre": "FAUN/TADANO"
+ },
+ {
+   "codigo": 1136,
+   "nombre": "LLOCATELI"
+ },
+ {
+   "codigo": 1137,
+   "nombre": "STRONG"
+ },
+ {
+   "codigo": 1138,
+   "nombre": "IDECO"
+ },
+ {
+   "codigo": 1139,
+   "nombre": "BUCEGI"
+ },
+ {
+   "codigo": 1140,
+   "nombre": "HAI XING"
+ },
+ {
+   "codigo": 1141,
+   "nombre": "WOLSELEY"
+ },
+ {
+   "codigo": 1142,
+   "nombre": "HUASHA"
+ },
+ {
+   "codigo": 1143,
+   "nombre": "SHENLI"
+ },
+ {
+   "codigo": 1144,
+   "nombre": "LINYU"
+ },
+ {
+   "codigo": 1145,
+   "nombre": "HONGOI"
+ },
+ {
+   "codigo": 1146,
+   "nombre": "ZERO"
+ },
+ {
+   "codigo": 1147,
+   "nombre": "CIBER"
+ },
+ {
+   "codigo": 1148,
+   "nombre": "RATO"
+ },
+ {
+   "codigo": 1149,
+   "nombre": "KW-B800"
+ },
+ {
+   "codigo": 1150,
+   "nombre": "UNICO"
+ },
+ {
+   "codigo": 1151,
+   "nombre": "BAIBEN TRUCK"
+ },
+ {
+   "codigo": 1152,
+   "nombre": "ANIVER"
+ },
+ {
+   "codigo": 1153,
+   "nombre": "LANDINI"
+ },
+ {
+   "codigo": 1154,
+   "nombre": "TOPTOM"
+ },
+ {
+   "codigo": 1155,
+   "nombre": "RIEJU"
+ },
+ {
+   "codigo": 1156,
+   "nombre": "IVECO MAGIRUS"
+ },
+ {
+   "codigo": 1157,
+   "nombre": "LINTEX"
+ },
+ {
+   "codigo": 1158,
+   "nombre": "BERING"
+ },
+ {
+   "codigo": 1159,
+   "nombre": "BRILLIANCE"
+ },
+ {
+   "codigo": 1160,
+   "nombre": "YONGKANG"
+ },
+ {
+   "codigo": 1161,
+   "nombre": "LIANGZI"
+ },
+ {
+   "codigo": 1162,
+   "nombre": "TONGHUA"
+ },
+ {
+   "codigo": 1163,
+   "nombre": "TAYLOR INDUSTRIES"
+ },
+ {
+   "codigo": 1164,
+   "nombre": "YOUNGMAN"
+ },
+ {
+   "codigo": 1165,
+   "nombre": "LIZHONG"
+ },
+ {
+   "codigo": 1166,
+   "nombre": "AMERICAN LA FRANCE"
+ },
+ {
+   "codigo": 1167,
+   "nombre": "PEMFAB"
+ },
+ {
+   "codigo": 1168,
+   "nombre": "KING ROAD"
+ },
+ {
+   "codigo": 1169,
+   "nombre": "JUPITER"
+ },
+ {
+   "codigo": 1170,
+   "nombre": "ESCUTER"
+ },
+ {
+   "codigo": 1171,
+   "nombre": "WHITE WESTERN"
+ },
+ {
+   "codigo": 1172,
+   "nombre": "ECO JAMCHA"
+ },
+ {
+   "codigo": 1173,
+   "nombre": "RIYA MOTORA"
+ },
+ {
+   "codigo": 1174,
+   "nombre": "IVECO FIAT"
+ },
+ {
+   "codigo": 1175,
+   "nombre": "JOYLONG"
+ },
+ {
+   "codigo": 1177,
+   "nombre": "HARDKNOCK"
+ },
+ {
+   "codigo": 1178,
+   "nombre": "SPYDER"
+ },
+ {
+   "codigo": 1179,
+   "nombre": "FEISHEN"
+ },
+ {
+   "codigo": 1180,
+   "nombre": "TENNANT"
+ },
+ {
+   "codigo": 1181,
+   "nombre": "GREEN"
+ },
+ {
+   "codigo": 1182,
+   "nombre": "SAN JI"
+ },
+ {
+   "codigo": 1183,
+   "nombre": "THUMB"
+ },
+ {
+   "codigo": 1184,
+   "nombre": "ZHONGPONG"
+ },
+ {
+   "codigo": 1185,
+   "nombre": "NAVISTAR"
+ },
+ {
+   "codigo": 1186,
+   "nombre": "SI JI"
+ },
+ {
+   "codigo": 1187,
+   "nombre": "ZHONGTONG"
+ },
+ {
+   "codigo": 1188,
+   "nombre": "IPV"
+ },
+ {
+   "codigo": 1189,
+   "nombre": "DEYI"
+ },
+ {
+   "codigo": 1190,
+   "nombre": "HONOR-QJ"
+ },
+ {
+   "codigo": 1191,
+   "nombre": "AN YUAN"
+ },
+ {
+   "codigo": 1192,
+   "nombre": "S&C"
+ },
+ {
+   "codigo": 1193,
+   "nombre": "JINLING TIGERS"
+ },
+ {
+   "codigo": 1194,
+   "nombre": "TIGER"
+ },
+ {
+   "codigo": 1195,
+   "nombre": "GOLOEN LEOPARO"
+ },
+ {
+   "codigo": 1196,
+   "nombre": "FULU"
+ },
+ {
+   "codigo": 1197,
+   "nombre": "CHENGLONG"
+ },
+ {
+   "codigo": 1198,
+   "nombre": "EV TECH JAPAN"
+ },
+ {
+   "codigo": 1199,
+   "nombre": "WYS"
+ },
+ {
+   "codigo": 1200,
+   "nombre": "HM HONDA"
+ },
+ {
+   "codigo": 1201,
+   "nombre": "GOES"
+ },
+ {
+   "codigo": 1202,
+   "nombre": "XINYUE"
+ },
+ {
+   "codigo": 1203,
+   "nombre": "VECTRIX"
+ },
+ {
+   "codigo": 1204,
+   "nombre": "SUPERFORMANCE"
+ },
+ {
+   "codigo": 1205,
+   "nombre": "FENGCHI"
+ },
+ {
+   "codigo": 1206,
+   "nombre": "SHA TUO"
+ },
+ {
+   "codigo": 1207,
+   "nombre": "MAXUS"
+ },
+ {
+   "codigo": 1208,
+   "nombre": "DONGBEN"
+ },
+ {
+   "codigo": 1209,
+   "nombre": "LVTONG"
+ },
+ {
+   "codigo": 1210,
+   "nombre": "ATV RACING"
+ },
+ {
+   "codigo": 1211,
+   "nombre": "ULTIMA"
+ },
+ {
+   "codigo": 1212,
+   "nombre": "DONG-A"
+ },
+ {
+   "codigo": 1213,
+   "nombre": "KOEHRING"
+ },
+ {
+   "codigo": 1214,
+   "nombre": "TIANMA"
+ },
+ {
+   "codigo": 1215,
+   "nombre": "KAMA"
+ },
+ {
+   "codigo": 1216,
+   "nombre": "RAINCHST"
+ },
+ {
+   "codigo": 1217,
+   "nombre": "DBO"
+ },
+ {
+   "codigo": 1218,
+   "nombre": "V-WINGS"
+ },
+ {
+   "codigo": 1219,
+   "nombre": "VICMARS"
+ },
+ {
+   "codigo": 1220,
+   "nombre": "NBLUCK"
+ },
+ {
+   "codigo": 1221,
+   "nombre": "HUANSONG"
+ },
+ {
+   "codigo": 1222,
+   "nombre": "TL"
+ },
+ {
+   "codigo": 1223,
+   "nombre": "SKYNGO"
+ },
+ {
+   "codigo": 1224,
+   "nombre": "GRUMMAN"
+ },
+ {
+   "codigo": 1225,
+   "nombre": "ACURA"
+ },
+ {
+   "codigo": 1226,
+   "nombre": "TESUO"
+ },
+ {
+   "codigo": 1228,
+   "nombre": "YUAMDA"
+ },
+ {
+   "codigo": 1229,
+   "nombre": "SUNRA"
+ },
+ {
+   "codigo": 1230,
+   "nombre": "MAKIBA"
+ },
+ {
+   "codigo": 1231,
+   "nombre": "LIATONG"
+ },
+ {
+   "codigo": 1235,
+   "nombre": "BSA"
+ },
+ {
+   "codigo": 1237,
+   "nombre": "CABOT"
+ },
+ {
+   "codigo": 1244,
+   "nombre": "COMMUTER"
+ },
+ {
+   "codigo": 1246,
+   "nombre": "COOPER"
+ },
+ {
+   "codigo": 1272,
+   "nombre": "KATANA"
+ },
+ {
+   "codigo": 1279,
+   "nombre": "LOADCRAFT"
+ },
+ {
+   "codigo": 1311,
+   "nombre": "TITAN"
+ },
+ {
+   "codigo": 1318,
+   "nombre": "WEAPON GENERAL"
+ },
+ {
+   "codigo": 1320,
+   "nombre": "WILSON"
+ },
+ {
+   "codigo": 1323,
+   "nombre": "ZIMMER"
+ },
+ {
+   "codigo": 1324,
+   "nombre": "XIANFENG"
+ },
+ {
+   "codigo": 1325,
+   "nombre": "WRIGHTBUS"
+ },
+ {
+   "codigo": 1326,
+   "nombre": "BELKOMMUNMASH"
+ },
+ {
+   "codigo": 1362,
+   "nombre": "FALCON"
+ },
+ {
+   "codigo": 1709,
+   "nombre": "RANDON"
+ },
+ {
+   "codigo": 1936,
+   "nombre": "TYTAL"
+ },
+ {
+   "codigo": 2155,
+   "nombre": "CAN-AM OUTLANDER"
+ },
+ {
+   "codigo": 2156,
+   "nombre": "HEXAGON LINCOLN"
+ },
+ {
+   "codigo": 2157,
+   "nombre": "STANDARD"
+ },
+ {
+   "codigo": 2158,
+   "nombre": "SKYMOTO"
+ },
+ {
+   "codigo": 2159,
+   "nombre": "JMCOMPETETIOM"
+ },
+ {
+   "codigo": 2160,
+   "nombre": "FAW-HONGQI"
+ },
+ {
+   "codigo": 2162,
+   "nombre": "GOLIATH"
+ },
+ {
+   "codigo": 2163,
+   "nombre": "STANDARD TRIUMPH"
+ },
+ {
+   "codigo": 2164,
+   "nombre": "JC"
+ },
+ {
+   "codigo": 2165,
+   "nombre": "CANAM"
+ },
+ {
+   "codigo": 2166,
+   "nombre": "UM"
+ },
+ {
+   "codigo": 2167,
+   "nombre": "KHD DEUNZ"
+ },
+ {
+   "codigo": 2213,
+   "nombre": "DIAMONTH"
+ },
+ {
+   "codigo": 2283,
+   "nombre": "SUPER"
+ },
+ {
+   "codigo": 2299,
+   "nombre": "I H C PAYSTAR"
+ },
+ {
+   "codigo": 2300,
+   "nombre": "SAIC"
+ },
+ {
+   "codigo": 2301,
+   "nombre": "TIGER POWER"
+ },
+ {
+   "codigo": 2302,
+   "nombre": "LA CANE"
+ },
+ {
+   "codigo": 2303,
+   "nombre": "HC"
+ },
+ {
+   "codigo": 2304,
+   "nombre": "YUEHAO"
+ },
+ {
+   "codigo": 2305,
+   "nombre": "ATK"
+ },
+ {
+   "codigo": 2306,
+   "nombre": "SANTANA"
+ },
+ {
+   "codigo": 2307,
+   "nombre": "FTF"
+ },
+ {
+   "codigo": 2308,
+   "nombre": "PITSTER PRO"
+ },
+ {
+   "codigo": 2309,
+   "nombre": "FMC WAYNE"
+ },
+ {
+   "codigo": 2310,
+   "nombre": "SAETA"
+ },
+ {
+   "codigo": 2311,
+   "nombre": "MD BASHAN"
+ },
+ {
+   "codigo": 2312,
+   "nombre": "WARRIOR ROAD"
+ },
+ {
+   "codigo": 2313,
+   "nombre": "ARES"
+ },
+ {
+   "codigo": 2314,
+   "nombre": "THAMES TRADER"
+ },
+ {
+   "codigo": 2315,
+   "nombre": "TAILG"
+ },
+ {
+   "codigo": 2316,
+   "nombre": "DURATI"
+ },
+ {
+   "codigo": 2317,
+   "nombre": "ILLUSION"
+ },
+ {
+   "codigo": 2318,
+   "nombre": "ZEASY"
+ },
+ {
+   "codigo": 2319,
+   "nombre": "GOGOMOBIL"
+ },
+ {
+   "codigo": 2320,
+   "nombre": "ZANELLA"
+ },
+ {
+   "codigo": 2321,
+   "nombre": "TAIHENG"
+ },
+ {
+   "codigo": 2322,
+   "nombre": "MINICHOPPER"
+ },
+ {
+   "codigo": 2323,
+   "nombre": "YONGKANG JINLING"
+ },
+ {
+   "codigo": 2329,
+   "nombre": "TARANTULA HUABAD"
+ },
+ {
+   "codigo": 2330,
+   "nombre": "ROMARCO"
+ },
+ {
+   "codigo": 2331,
+   "nombre": "GREAT DANE"
+ },
+ {
+   "codigo": 2332,
+   "nombre": "ZONSHEN"
+ },
+ {
+   "codigo": 2333,
+   "nombre": "TAUNUS"
+ },
+ {
+   "codigo": 2335,
+   "nombre": "CAETANO"
+ },
+ {
+   "codigo": 2336,
+   "nombre": "KINGTON"
+ },
+ {
+   "codigo": 2337,
+   "nombre": "BAIC"
+ },
+ {
+   "codigo": 2338,
+   "nombre": "LANDWIND"
+ },
+ {
+   "codigo": 2339,
+   "nombre": "HONGYAN"
+ },
+ {
+   "codigo": 2340,
+   "nombre": "BRAMMO"
+ },
+ {
+   "codigo": 2341,
+   "nombre": "DONGFENG"
+ },
+ {
+   "codigo": 2342,
+   "nombre": "SPRIENTER FREIGHTLINER"
+ },
+ {
+   "codigo": 2343,
+   "nombre": "SLANE"
+ },
+ {
+   "codigo": 2344,
+   "nombre": "BAOYA"
+ },
+ {
+   "codigo": 2345,
+   "nombre": "BRAMMO IMPULSE R."
+ },
+ {
+   "codigo": 2346,
+   "nombre": "GREEN THOR"
+ },
+ {
+   "codigo": 2347,
+   "nombre": "HECHI TOOLS"
+ },
+ {
+   "codigo": 2348,
+   "nombre": "MOTO GUZZI"
+ },
+ {
+   "codigo": 2349,
+   "nombre": "LONDON  MACHINERY"
+ },
+ {
+   "codigo": 2350,
+   "nombre": "DI BLASI"
+ },
+ {
+   "codigo": 2351,
+   "nombre": "DFLZ"
+ },
+ {
+   "codigo": 2352,
+   "nombre": "SUNNY"
+ },
+ {
+   "codigo": 2353,
+   "nombre": "BEIBEN"
+ },
+ {
+   "codigo": 2354,
+   "nombre": "FINE CENTURY CO LTD"
+ },
+ {
+   "codigo": 2355,
+   "nombre": "FOLARIS"
+ },
+ {
+   "codigo": 2356,
+   "nombre": "CYCLER"
+ },
+ {
+   "codigo": 2357,
+   "nombre": "DSFK"
+ },
+ {
+   "codigo": 2358,
+   "nombre": "NISSAN CABSTAR"
+ },
+ {
+   "codigo": 2359,
+   "nombre": "MOTO ABC"
+ },
+ {
+   "codigo": 2360,
+   "nombre": "WERDEAU"
+ },
+ {
+   "codigo": 2361,
+   "nombre": "EAGLE TALON"
+ },
+ {
+   "codigo": 2362,
+   "nombre": "CHOPPER"
+ },
+ {
+   "codigo": 2363,
+   "nombre": "INTERNATIONAL F9370"
+ },
+ {
+   "codigo": 2364,
+   "nombre": "SINOTRUKHOVA"
+ },
+ {
+   "codigo": 2365,
+   "nombre": "COLES CRANES"
+ },
+ {
+   "codigo": 2366,
+   "nombre": "SJ.PETRO"
+ },
+ {
+   "codigo": 2368,
+   "nombre": "GOVECS"
+ },
+ {
+   "codigo": 2369,
+   "nombre": "BENDA"
+ },
+ {
+   "codigo": 2370,
+   "nombre": "ZSPEM"
+ },
+ {
+   "codigo": 2371,
+   "nombre": "JEEPSTER VIASA"
+ },
+ {
+   "codigo": 2372,
+   "nombre": "DACIA 10"
+ },
+ {
+   "codigo": 2373,
+   "nombre": "JIANGSU JINJIE"
+ },
+ {
+   "codigo": 2374,
+   "nombre": "XINYANG"
+ },
+ {
+   "codigo": 2375,
+   "nombre": "SSTERLING"
+ },
+ {
+   "codigo": 2376,
+   "nombre": "NORTH BENZ"
+ },
+ {
+   "codigo": 2377,
+   "nombre": "NISSAN PATROL"
+ },
+ {
+   "codigo": 2378,
+   "nombre": "GREEN SAVER"
+ },
+ {
+   "codigo": 2379,
+   "nombre": "LUYUAN"
+ },
+ {
+   "codigo": 2380,
+   "nombre": "ACM ANGEL'S CUSTOM"
+ },
+ {
+   "codigo": 2381,
+   "nombre": "BOSS ATV"
+ },
+ {
+   "codigo": 2382,
+   "nombre": "YCF"
+ },
+ {
+   "codigo": 2396,
+   "nombre": "DUNE BUGGYS"
+ },
+ {
+   "codigo": 2397,
+   "nombre": "TM RACING"
+ },
+ {
+   "codigo": 2398,
+   "nombre": "MOZ"
+ },
+ {
+   "codigo": 2399,
+   "nombre": "QISHENG"
+ },
+ {
+   "codigo": 2400,
+   "nombre": "YINXIANG"
+ },
+ {
+   "codigo": 2401,
+   "nombre": "MERCEDES BENZ/UNIMOG"
+ },
+ {
+   "codigo": 2402,
+   "nombre": "TELDIUX"
+ },
+ {
+   "codigo": 2403,
+   "nombre": "NAVECO-IVECO"
+ },
+ {
+   "codigo": 2404,
+   "nombre": "SINSKI"
+ },
+ {
+   "codigo": 2405,
+   "nombre": "ELEKTRA"
+ },
+ {
+   "codigo": 2406,
+   "nombre": "GARELLI"
+ },
+ {
+   "codigo": 2407,
+   "nombre": "ARTIC CAT"
+ },
+ {
+   "codigo": 2409,
+   "nombre": "RAVO"
+ },
+ {
+   "codigo": 2410,
+   "nombre": "JOHN DEERE"
+ },
+ {
+   "codigo": 2411,
+   "nombre": "BRICKLIN"
+ },
+ {
+   "codigo": 2412,
+   "nombre": "MORINI"
+ },
+ {
+   "codigo": 2413,
+   "nombre": "CAN AM"
+ },
+ {
+   "codigo": 2414,
+   "nombre": "WHITE MOTORCORPORATION"
+ },
+ {
+   "codigo": 2415,
+   "nombre": "EONE HURRICANE"
+ },
+ {
+   "codigo": 2416,
+   "nombre": "HTA"
+ },
+ {
+   "codigo": 2417,
+   "nombre": "JBC JINBEI"
+ },
+ {
+   "codigo": 2418,
+   "nombre": "CANCE CASHSUYE"
+ },
+ {
+   "codigo": 2419,
+   "nombre": "AUSA"
+ },
+ {
+   "codigo": 2420,
+   "nombre": "X-TRON POWER ENERGY"
+ },
+ {
+   "codigo": 2421,
+   "nombre": "MCLAREN"
+ },
+ {
+   "codigo": 2423,
+   "nombre": "USW MOTORS"
+ },
+ {
+   "codigo": 2424,
+   "nombre": "NEW HOLLAND"
+ },
+ {
+   "codigo": 2425,
+   "nombre": "FORLAND"
+ },
+ {
+   "codigo": 2426,
+   "nombre": "ACURA INTEGRA"
+ },
+ {
+   "codigo": 2427,
+   "nombre": "FEIYING"
+ },
+ {
+   "codigo": 2428,
+   "nombre": "INDUSTRIAS MORENO"
+ },
+ {
+   "codigo": 2429,
+   "nombre": "MH KN2"
+ },
+ {
+   "codigo": 2430,
+   "nombre": "MH RACING"
+ },
+ {
+   "codigo": 2431,
+   "nombre": "MH7 NAKED"
+ },
+ {
+   "codigo": 2432,
+   "nombre": "PEGASO"
+ },
+ {
+   "codigo": 2433,
+   "nombre": "SHANGYANG"
+ },
+ {
+   "codigo": 2434,
+   "nombre": "FORD LAND"
+ },
+ {
+   "codigo": 2435,
+   "nombre": "SHINERAY / AYCO"
+ },
+ {
+   "codigo": 2436,
+   "nombre": "UROMAC"
+ },
+ {
+   "codigo": 2437,
+   "nombre": "E-MOTORI"
+ },
+ {
+   "codigo": 2438,
+   "nombre": "EP-EP"
+ },
+ {
+   "codigo": 2439,
+   "nombre": "C.O.C."
+ },
+ {
+   "codigo": 2440,
+   "nombre": "WELLUCK"
+ },
+ {
+   "codigo": 2441,
+   "nombre": "TRIUMPH MOTORCYCLES"
+ },
+ {
+   "codigo": 2442,
+   "nombre": "VENICE"
+ },
+ {
+   "codigo": 2443,
+   "nombre": "AIMA"
+ },
+ {
+   "codigo": 2444,
+   "nombre": "APRIL EV"
+ },
+ {
+   "codigo": 2445,
+   "nombre": "DERBI"
+ },
+ {
+   "codigo": 2446,
+   "nombre": "SLNG"
+ },
+ {
+   "codigo": 2447,
+   "nombre": "MAVILA"
+ },
+ {
+   "codigo": 2448,
+   "nombre": "PIERCE"
+ },
+ {
+   "codigo": 2449,
+   "nombre": "SANLG"
+ },
+ {
+   "codigo": 2450,
+   "nombre": "FORCE"
+ },
+ {
+   "codigo": 2451,
+   "nombre": "LARETTO"
+ },
+ {
+   "codigo": 2452,
+   "nombre": "JEEP WRANGLER 4WD"
+ },
+ {
+   "codigo": 2453,
+   "nombre": "KAMAX"
+ },
+ {
+   "codigo": 2454,
+   "nombre": "SUNWIN"
+ },
+ {
+   "codigo": 2455,
+   "nombre": "ZONLON"
+ },
+ {
+   "codigo": 2456,
+   "nombre": "TAYLOR"
+ },
+ {
+   "codigo": 2457,
+   "nombre": "BECEMA"
+ },
+ {
+   "codigo": 2458,
+   "nombre": "VOLVO BM"
+ },
+ {
+   "codigo": 2459,
+   "nombre": "MGA"
+ },
+ {
+   "codigo": 2460,
+   "nombre": "ERSKINE"
+ },
+ {
+   "codigo": 2461,
+   "nombre": "TM"
+ },
+ {
+   "codigo": 2462,
+   "nombre": "SCHWARSE SUPERVAC"
+ },
+ {
+   "codigo": 2463,
+   "nombre": "SHANDONG XINDAYANG"
+ },
+ {
+   "codigo": 2464,
+   "nombre": "AUBURN"
+ },
+ {
+   "codigo": 2465,
+   "nombre": "GATOR"
+ },
+ {
+   "codigo": 2466,
+   "nombre": "BOSS"
+ },
+ {
+   "codigo": 2467,
+   "nombre": "PRAKLA"
+ },
+ {
+   "codigo": 2468,
+   "nombre": "ELEKTROMOTORES"
+ },
+ {
+   "codigo": 2469,
+   "nombre": "PRECISION CYCLE WORKS"
+ },
+ {
+   "codigo": 2470,
+   "nombre": "ELEXTROMOTORES"
+ },
+ {
+   "codigo": 2471,
+   "nombre": "MARCOPOLO"
+ },
+ {
+   "codigo": 2472,
+   "nombre": "DEUTZ"
+ },
+ {
+   "codigo": 2473,
+   "nombre": "GENOVO POWER"
+ },
+ {
+   "codigo": 2474,
+   "nombre": "FUSO"
+ },
+ {
+   "codigo": 2475,
+   "nombre": "GARWOOD"
+ },
+ {
+   "codigo": 2476,
+   "nombre": "BLAWKNOX"
+ },
+ {
+   "codigo": 2477,
+   "nombre": "CHAOWEI"
+ },
+ {
+   "codigo": 2478,
+   "nombre": "NAVISTAR INTERNACIONAL"
+ },
+ {
+   "codigo": 2479,
+   "nombre": "YUEJIN - NAVECO"
+ },
+ {
+   "codigo": 2480,
+   "nombre": "H14.00XM"
+ },
+ {
+   "codigo": 2481,
+   "nombre": "RANGER CREW 900"
+ },
+ {
+   "codigo": 2482,
+   "nombre": "SUNLONG"
+ },
+ {
+   "codigo": 2483,
+   "nombre": "IASA"
+ },
+ {
+   "codigo": 2484,
+   "nombre": "BK MOTO"
+ },
+ {
+   "codigo": 2485,
+   "nombre": "KAP"
+ },
+ {
+   "codigo": 2486,
+   "nombre": "FUXIN-F-FX"
+ },
+ {
+   "codigo": 2487,
+   "nombre": "TOYOTA SCION"
+ },
+ {
+   "codigo": 2488,
+   "nombre": "AVENGER"
+ },
+ {
+   "codigo": 2489,
+   "nombre": "RING SIMONS"
+ },
+ {
+   "codigo": 2490,
+   "nombre": "SANLING"
+ },
+ {
+   "codigo": 2491,
+   "nombre": "KIKKER 5150"
+ },
+ {
+   "codigo": 2492,
+   "nombre": "RARIRO"
+ },
+ {
+   "codigo": 2493,
+   "nombre": "CAMPAGNA"
+ },
+ {
+   "codigo": 2494,
+   "nombre": "TRUMPCHI"
+ },
+ {
+   "codigo": 2495,
+   "nombre": "GOUPIL"
+ },
+ {
+   "codigo": 2496,
+   "nombre": "AUTOBIANCHI"
+ },
+ {
+   "codigo": 2497,
+   "nombre": "LYNGYUN"
+ },
+ {
+   "codigo": 2498,
+   "nombre": "MH MOTOCYCLES"
+ },
+ {
+   "codigo": 2499,
+   "nombre": "BAOTIAN"
+ },
+ {
+   "codigo": 2500,
+   "nombre": "KING MOTOR"
+ },
+ {
+   "codigo": 2501,
+   "nombre": "NISSAN URVAN"
+ },
+ {
+   "codigo": 2502,
+   "nombre": "CHAMPION PERFORMANCE"
+ },
+ {
+   "codigo": 2503,
+   "nombre": "PIAGIO"
+ },
+ {
+   "codigo": 2504,
+   "nombre": "MG MORRIS GARAGES"
+ },
+ {
+   "codigo": 2505,
+   "nombre": "NATSUKI"
+ },
+ {
+   "codigo": 2506,
+   "nombre": "KAISER JEEP CORPORATION"
+ },
+ {
+   "codigo": 2507,
+   "nombre": "MITSUBISHI MONTERO"
+ },
+ {
+   "codigo": 2508,
+   "nombre": "WESTFIELD"
+ },
+ {
+   "codigo": 2509,
+   "nombre": "REVOLUTION 250"
+ },
+ {
+   "codigo": 2510,
+   "nombre": "GLOBAL"
+ },
+ {
+   "codigo": 2511,
+   "nombre": "A.C.F."
+ },
+ {
+   "codigo": 2512,
+   "nombre": "PULLMAN"
+ },
+ {
+   "codigo": 2513,
+   "nombre": "DFAC"
+ },
+ {
+   "codigo": 2514,
+   "nombre": "U.D.M."
+ },
+ {
+   "codigo": 2515,
+   "nombre": "MURRELL"
+ },
+ {
+   "codigo": 2516,
+   "nombre": "CATERHAM"
+ },
+ {
+   "codigo": 2517,
+   "nombre": "ZAGA"
+ },
+ {
+   "codigo": 2518,
+   "nombre": "BAIC/KENBO"
+ },
+ {
+   "codigo": 2519,
+   "nombre": "MESSERSCHMITT"
+ },
+ {
+   "codigo": 2520,
+   "nombre": "BECK"
+ },
+ {
+   "codigo": 2521,
+   "nombre": "ASIA MOTORS"
+ },
+ {
+   "codigo": 2522,
+   "nombre": "FAI"
+ },
+ {
+   "codigo": 2523,
+   "nombre": "PCC EU"
+ },
+ {
+   "codigo": 2524,
+   "nombre": "VOLTA"
+ },
+ {
+   "codigo": 2525,
+   "nombre": "KAMPERX"
+ },
+ {
+   "codigo": 2526,
+   "nombre": "CRANE CARRIER"
+ },
+ {
+   "codigo": 2527,
+   "nombre": "CHANGANG"
+ },
+ {
+   "codigo": 2528,
+   "nombre": "INMINES"
+ },
+ {
+   "codigo": 2529,
+   "nombre": "STÄRKER"
+ },
+ {
+   "codigo": 2531,
+   "nombre": "QILING"
+ },
+ {
+   "codigo": 2532,
+   "nombre": "ZHANG"
+ },
+ {
+   "codigo": 2533,
+   "nombre": "FERRARA"
+ },
+ {
+   "codigo": 2534,
+   "nombre": "YINJI"
+ },
+ {
+   "codigo": 2535,
+   "nombre": "TEREX BENFORD"
+ },
+ {
+   "codigo": 2536,
+   "nombre": "KAYSER"
+ },
+ {
+   "codigo": 2537,
+   "nombre": "LIL PICK UP"
+ },
+ {
+   "codigo": 2539,
+   "nombre": "HISUN"
+ },
+ {
+   "codigo": 2540,
+   "nombre": "NAVECO"
+ },
+ {
+   "codigo": 2541,
+   "nombre": "BMY"
+ },
+ {
+   "codigo": 2542,
+   "nombre": "WACKER"
+ },
+ {
+   "codigo": 2543,
+   "nombre": "KOMATSU FG25"
+ },
+ {
+   "codigo": 2544,
+   "nombre": "TX MOTOR"
+ },
+ {
+   "codigo": 2545,
+   "nombre": "ENDURO"
+ },
+ {
+   "codigo": 2546,
+   "nombre": "MOSRITO"
+ },
+ {
+   "codigo": 2547,
+   "nombre": "CAN AM BRP"
+ },
+ {
+   "codigo": 2548,
+   "nombre": "SCOOTER ROKETA"
+ },
+ {
+   "codigo": 2549,
+   "nombre": "STRADA"
+ },
+ {
+   "codigo": 2550,
+   "nombre": "KTX"
+ },
+ {
+   "codigo": 2551,
+   "nombre": "DS"
+ },
+ {
+   "codigo": 2552,
+   "nombre": "AMERICAN MOTOR JEEP"
+ },
+ {
+   "codigo": 2553,
+   "nombre": "EGO CAMBUCO"
+ },
+ {
+   "codigo": 2554,
+   "nombre": "GIANT'S"
+ },
+ {
+   "codigo": 2555,
+   "nombre": "HENDRICKSON"
+ },
+ {
+   "codigo": 2556,
+   "nombre": "SATURN SPORAGE"
+ },
+ {
+   "codigo": 2557,
+   "nombre": "MERCURI"
+ },
+ {
+   "codigo": 2558,
+   "nombre": "PLYMOUT"
+ },
+ {
+   "codigo": 2559,
+   "nombre": "CAN-AM BRP BOMBARDIER"
+ },
+ {
+   "codigo": 2560,
+   "nombre": "JIANSCHI"
+ },
+ {
+   "codigo": 2561,
+   "nombre": "ATOM"
+ },
+ {
+   "codigo": 2562,
+   "nombre": "SUSUKI"
+ },
+ {
+   "codigo": 2563,
+   "nombre": "AVA FENIX"
+ },
+ {
+   "codigo": 2564,
+   "nombre": "HARWAN"
+ },
+ {
+   "codigo": 2565,
+   "nombre": "SONLINK"
+ },
+ {
+   "codigo": 2566,
+   "nombre": "MOLTOVELUCE HARWAN"
+ },
+ {
+   "codigo": 2567,
+   "nombre": "SUNSHINE"
+ },
+ {
+   "codigo": 2568,
+   "nombre": "ANDES RZ"
+ },
+ {
+   "codigo": 2569,
+   "nombre": "TIANDA"
+ },
+ {
+   "codigo": 2570,
+   "nombre": "JPETRO"
+ },
+ {
+   "codigo": 2571,
+   "nombre": "SCOMADI"
+ },
+ {
+   "codigo": 2572,
+   "nombre": "CITIESX"
+ },
+ {
+   "codigo": 2573,
+   "nombre": "ANDES"
+ },
+ {
+   "codigo": 2574,
+   "nombre": "MACK TRUCKS"
+ },
+ {
+   "codigo": 2575,
+   "nombre": "TRI RING"
+ },
+ {
+   "codigo": 2576,
+   "nombre": "QIJING"
+ },
+ {
+   "codigo": 2577,
+   "nombre": "X-ZHANJING"
+ },
+ {
+   "codigo": 2578,
+   "nombre": "JEC"
+ },
+ {
+   "codigo": 2579,
+   "nombre": "BADER"
+ },
+ {
+   "codigo": 2580,
+   "nombre": "ZHENGLI"
+ },
+ {
+   "codigo": 2581,
+   "nombre": "TYM"
+ },
+ {
+   "codigo": 2582,
+   "nombre": "FANGXIN"
+ },
+ {
+   "codigo": 2583,
+   "nombre": "LANDER"
+ },
+ {
+   "codigo": 2584,
+   "nombre": "TOYOTA LAND CRUISER"
+ },
+ {
+   "codigo": 2585,
+   "nombre": "LONG CING"
+ },
+ {
+   "codigo": 2586,
+   "nombre": "ARO CARPATI"
+ },
+ {
+   "codigo": 2587,
+   "nombre": "SLINGSHOT"
+ },
+ {
+   "codigo": 2588,
+   "nombre": "LIZARD MOTORS"
+ },
+ {
+   "codigo": 2589,
+   "nombre": "WINNER"
+ },
+ {
+   "codigo": 2590,
+   "nombre": "CARABELA"
+ },
+ {
+   "codigo": 2591,
+   "nombre": "CARTER TALON"
+ },
+ {
+   "codigo": 2592,
+   "nombre": "RABA-MAN"
+ },
+ {
+   "codigo": 2593,
+   "nombre": "EV//NM SPORT//AA"
+ },
+ {
+   "codigo": 2594,
+   "nombre": "KENBO"
+ },
+ {
+   "codigo": 2595,
+   "nombre": "KTM."
+ },
+ {
+   "codigo": 2596,
+   "nombre": ".KTM."
+ },
+ {
+   "codigo": 2597,
+   "nombre": "CARDA"
+ },
+ {
+   "codigo": 2598,
+   "nombre": "CARMIX"
+ },
+ {
+   "codigo": 2599,
+   "nombre": "STARKER"
+ },
+ {
+   "codigo": 2600,
+   "nombre": "ABC"
+ },
+ {
+   "codigo": 2601,
+   "nombre": "MACBOR"
+ },
+ {
+   "codigo": 2602,
+   "nombre": "NISSAN-TIIDA"
+ },
+ {
+   "codigo": 2604,
+   "nombre": "SPORT POWER NEW/ELECTRIKA"
+ },
+ {
+   "codigo": 2605,
+   "nombre": "KROMHOUT"
+ },
+ {
+   "codigo": 2606,
+   "nombre": "NISSAN SENTRA"
+ },
+ {
+   "codigo": 2607,
+   "nombre": "ELECTRIC E-BIKE GX"
+ },
+ {
+   "codigo": 2608,
+   "nombre": "ELECTRIKA"
+ },
+ {
+   "codigo": 2609,
+   "nombre": "AUSTIN HEALEY"
+ },
+ {
+   "codigo": 2610,
+   "nombre": "ROSENBAUER AMERICA"
+ },
+ {
+   "codigo": 2611,
+   "nombre": "FREIGHT LINER"
+ },
+ {
+   "codigo": 2612,
+   "nombre": "ANKAI"
+ },
+ {
+   "codigo": 2613,
+   "nombre": "BIBREX"
+ },
+ {
+   "codigo": 2614,
+   "nombre": "BIGREX"
+ },
+ {
+   "codigo": 2615,
+   "nombre": "QUINGGQI"
+ },
+ {
+   "codigo": 2616,
+   "nombre": "YONGHE"
+ },
+ {
+   "codigo": 2617,
+   "nombre": "INTERNATIONAL EAGLE"
+ },
+ {
+   "codigo": 2618,
+   "nombre": "NATIONAL FOAM"
+ },
+ {
+   "codigo": 2619,
+   "nombre": "GEO METRO"
+ },
+ {
+   "codigo": 2620,
+   "nombre": "AUDI Q5"
+ },
+ {
+   "codigo": 2621,
+   "nombre": "TRAILMASTER"
+ },
+ {
+   "codigo": 2622,
+   "nombre": "AVA"
+ },
+ {
+   "codigo": 2623,
+   "nombre": "PRAVA"
+ },
+ {
+   "codigo": 2624,
+   "nombre": "KAWEIAUTO"
+ },
+ {
+   "codigo": 2625,
+   "nombre": "BESTA"
+ },
+ {
+   "codigo": 2626,
+   "nombre": "CAZADOR"
+ },
+ {
+   "codigo": 2627,
+   "nombre": "GOMOTORS"
+ },
+ {
+   "codigo": 2628,
+   "nombre": "SHJ"
+ },
+ {
+   "codigo": 2629,
+   "nombre": "BREMACH"
+ },
+ {
+   "codigo": 2630,
+   "nombre": "DAIAHTSU"
+ },
+ {
+   "codigo": 2631,
+   "nombre": "HANBIRD"
+ },
+ {
+   "codigo": 2632,
+   "nombre": "GREAT WALL-GWM DEER"
+ },
+ {
+   "codigo": 2633,
+   "nombre": "RAY DESF"
+ },
+ {
+   "codigo": 2634,
+   "nombre": "RONCO"
+ },
+ {
+   "codigo": 2635,
+   "nombre": "BRASELIO"
+ },
+ {
+   "codigo": 2636,
+   "nombre": "RAM"
+ },
+ {
+   "codigo": 2637,
+   "nombre": "KENWORD FODEN"
+ },
+ {
+   "codigo": 2638,
+   "nombre": "TOMOS REVIYAL"
+ },
+ {
+   "codigo": 2639,
+   "nombre": "POLSKI FIAT"
+ },
+ {
+   "codigo": 2640,
+   "nombre": "MAICO"
+ },
+ {
+   "codigo": 2641,
+   "nombre": "KTK"
+ },
+ {
+   "codigo": 2642,
+   "nombre": "IZHMASH"
+ },
+ {
+   "codigo": 2643,
+   "nombre": "JLP-LUNA"
+ },
+ {
+   "codigo": 2644,
+   "nombre": "SITOM"
+ },
+ {
+   "codigo": 2645,
+   "nombre": "MC MOTOS"
+ },
+ {
+   "codigo": 2646,
+   "nombre": "UNITEC USA"
+ },
+ {
+   "codigo": 2647,
+   "nombre": "SINOPEC"
+ },
+ {
+   "codigo": 2648,
+   "nombre": "PLUTUS SG"
+ },
+ {
+   "codigo": 2649,
+   "nombre": "TEXTRON"
+ },
+ {
+   "codigo": 2650,
+   "nombre": "GRUPO PEGASSO"
+ },
+ {
+   "codigo": 2651,
+   "nombre": "GUTBROD"
+ },
+ {
+   "codigo": 2652,
+   "nombre": "VERUCCI AVANTI"
+ },
+ {
+   "codigo": 2653,
+   "nombre": "BIRO"
+ },
+ {
+   "codigo": 2654,
+   "nombre": "BMS 552"
+ },
+ {
+   "codigo": 2655,
+   "nombre": "VACTOR"
+ },
+ {
+   "codigo": 2656,
+   "nombre": "LUNA"
+ },
+ {
+   "codigo": 2657,
+   "nombre": "CARGO EAGLE"
+ },
+ {
+   "codigo": 2658,
+   "nombre": "AUTECO/ROA"
+ },
+ {
+   "codigo": 2659,
+   "nombre": "RIGO"
+ },
+ {
+   "codigo": 2660,
+   "nombre": "SOUTH EAST"
+ },
+ {
+   "codigo": 2661,
+   "nombre": "TYMCO"
+ },
+ {
+   "codigo": 2662,
+   "nombre": "GEM"
+ },
+ {
+   "codigo": 2663,
+   "nombre": "DEVIN ERMINI"
+ },
+ {
+   "codigo": 2664,
+   "nombre": "EVERBRIGHT"
+ },
+ {
+   "codigo": 2665,
+   "nombre": "FOTON AUMAN"
+ },
+ {
+   "codigo": 2666,
+   "nombre": "BOSS-ATV"
+ },
+ {
+   "codigo": 2667,
+   "nombre": "ROBETA"
+ },
+ {
+   "codigo": 2668,
+   "nombre": "MAGIRUS"
+ },
+ {
+   "codigo": 2669,
+   "nombre": "P&H"
+ },
+ {
+   "codigo": 2670,
+   "nombre": "NIU"
+ },
+ {
+   "codigo": 2671,
+   "nombre": "LAVERDA"
+ },
+ {
+   "codigo": 2672,
+   "nombre": "EMPIRE KEEWAY"
+ },
+ {
+   "codigo": 2673,
+   "nombre": "DINGBA"
+ },
+ {
+   "codigo": 2674,
+   "nombre": "REEN TOUR PEACE - GTP"
+ },
+ {
+   "codigo": 2675,
+   "nombre": "GREEN TOUR PEACE - GTP"
+ },
+ {
+   "codigo": 2676,
+   "nombre": "ARO CORCEL"
+ },
+ {
+   "codigo": 2677,
+   "nombre": "INFINITIVE"
+ },
+ {
+   "codigo": 2678,
+   "nombre": "WINLEE"
+ },
+ {
+   "codigo": 2679,
+   "nombre": "ANAIG"
+ },
+ {
+   "codigo": 2680,
+   "nombre": "SWM"
+ },
+ {
+   "codigo": 2681,
+   "nombre": "AM GENERAL LLC"
+ },
+ {
+   "codigo": 2682,
+   "nombre": "KANGD"
+ },
+ {
+   "codigo": 2683,
+   "nombre": "LIANKE"
+ },
+ {
+   "codigo": 2684,
+   "nombre": "AGA"
+ },
+ {
+   "codigo": 2685,
+   "nombre": "CZ CAGIVA"
+ },
+ {
+   "codigo": 2686,
+   "nombre": "STARK"
+ },
+ {
+   "codigo": 2687,
+   "nombre": "FISCA"
+ },
+ {
+   "codigo": 2688,
+   "nombre": "ZHONGYOU"
+ },
+ {
+   "codigo": 2689,
+   "nombre": "HUAIHAI"
+ },
+ {
+   "codigo": 2690,
+   "nombre": "SKOOT"
+ },
+ {
+   "codigo": 2691,
+   "nombre": "X-EIHEI"
+ },
+ {
+   "codigo": 2692,
+   "nombre": "TESLA"
+ },
+ {
+   "codigo": 2693,
+   "nombre": "MINI COOPER"
+ },
+ {
+   "codigo": 2694,
+   "nombre": "BACKROAD CHOPPERS"
+ },
+ {
+   "codigo": 2695,
+   "nombre": "HK SHANSU"
+ },
+ {
+   "codigo": 2696,
+   "nombre": "ALTA MOTORS"
+ },
+ {
+   "codigo": 2697,
+   "nombre": "DAIX"
+ },
+ {
+   "codigo": 2698,
+   "nombre": "NOMADA´S ECO MOTO"
+ },
+ {
+   "codigo": 2699,
+   "nombre": "MAX MIKU"
+ },
+ {
+   "codigo": 2700,
+   "nombre": "WANSHAN"
+ },
+ {
+   "codigo": 2701,
+   "nombre": "JOHNSTON SWEEPERS"
+ },
+ {
+   "codigo": 2702,
+   "nombre": "AMERICAN LAFRANCE"
+ },
+ {
+   "codigo": 2703,
+   "nombre": "TORO"
+ },
+ {
+   "codigo": 2704,
+   "nombre": "PRATOO & FORNE"
+ },
+ {
+   "codigo": 2705,
+   "nombre": "XINLIBA"
+ },
+ {
+   "codigo": 2706,
+   "nombre": "AMMANN"
+ },
+ {
+   "codigo": 2707,
+   "nombre": "BIN"
+ },
+ {
+   "codigo": 2708,
+   "nombre": "EONE CYCLONE"
+ },
+ {
+   "codigo": 2709,
+   "nombre": "ZP"
+ },
+ {
+   "codigo": 2710,
+   "nombre": "SUTPHEN"
+ },
+ {
+   "codigo": 2711,
+   "nombre": "MERCEDES BENZ / IDEROL"
+ },
+ {
+   "codigo": 2712,
+   "nombre": "YONGFU"
+ },
+ {
+   "codigo": 2713,
+   "nombre": "EVOLUTION"
+ },
+ {
+   "codigo": 2714,
+   "nombre": "BENLG"
+ },
+ {
+   "codigo": 2715,
+   "nombre": "JIAYUAN"
+ },
+ {
+   "codigo": 2716,
+   "nombre": "MINGHONG"
+ },
+ {
+   "codigo": 2717,
+   "nombre": "ASIA"
+ },
+ {
+   "codigo": 2718,
+   "nombre": "ECO BRYSER"
+ },
+ {
+   "codigo": 2719,
+   "nombre": "PRAGA"
+ },
+ {
+   "codigo": 2720,
+   "nombre": "QSMOTOR"
+ },
+ {
+   "codigo": 2721,
+   "nombre": "ROSEWOOD"
+ },
+ {
+   "codigo": 2722,
+   "nombre": "SHENG"
+ },
+ {
+   "codigo": 2723,
+   "nombre": "KARRY"
+ },
+ {
+   "codigo": 2724,
+   "nombre": "LIGHTER"
+ },
+ {
+   "codigo": 2725,
+   "nombre": "MARSHELL"
+ },
+ {
+   "codigo": 2726,
+   "nombre": "ZHIDOU"
+ },
+ {
+   "codigo": 2727,
+   "nombre": "MISHOUZUKI"
+ },
+ {
+   "codigo": 2728,
+   "nombre": "CHAOW POWER"
+ },
+ {
+   "codigo": 2729,
+   "nombre": "CELERAK INK"
+ },
+ {
+   "codigo": 2730,
+   "nombre": "SHEKA /YARDY"
+ },
+ {
+   "codigo": 2731,
+   "nombre": "MAGIRUZ DEUTZ"
+ },
+ {
+   "codigo": 2732,
+   "nombre": "E2-GO"
+ },
+ {
+   "codigo": 2733,
+   "nombre": "CARPATY"
+ },
+ {
+   "codigo": 2734,
+   "nombre": "VESPACAR"
+ },
+ {
+   "codigo": 2735,
+   "nombre": "EZ-GO"
+ },
+ {
+   "codigo": 2736,
+   "nombre": "CDI SKYGO"
+ },
+ {
+   "codigo": 2737,
+   "nombre": "CIRCULA VERDE"
+ },
+ {
+   "codigo": 2738,
+   "nombre": "CAMELLO"
+ },
+ {
+   "codigo": 2739,
+   "nombre": "CONFEDERATE"
+ },
+ {
+   "codigo": 2740,
+   "nombre": "HARLEY-DAVIDSON"
+ },
+ {
+   "codigo": 2741,
+   "nombre": "CHANG JIANG"
+ },
+ {
+   "codigo": 2742,
+   "nombre": "ZONGQING"
+ },
+ {
+   "codigo": 2743,
+   "nombre": "NISSAN QASHQAI"
+ },
+ {
+   "codigo": 2744,
+   "nombre": "TRACKING"
+ },
+ {
+   "codigo": 2745,
+   "nombre": "NISSAN PATHFINDER"
+ },
+ {
+   "codigo": 2746,
+   "nombre": "SCHOPF"
+ },
+ {
+   "codigo": 2747,
+   "nombre": "NISSAN/QASHQAI"
+ },
+ {
+   "codigo": 2748,
+   "nombre": "GBM MOTORS"
+ },
+ {
+   "codigo": 2749,
+   "nombre": "MINGTO"
+ },
+ {
+   "codigo": 2751,
+   "nombre": "T.L. SMITH"
+ },
+ {
+   "codigo": 2752,
+   "nombre": "KINGBON JINPENG"
+ },
+ {
+   "codigo": 2753,
+   "nombre": "AUTECO KAWASAKI"
+ },
+ {
+   "codigo": 2754,
+   "nombre": "CERONTE"
+ },
+ {
+   "codigo": 2755,
+   "nombre": "TODAY SUNSHINE"
+ },
+ {
+   "codigo": 2756,
+   "nombre": "HARLEY"
+ },
+ {
+   "codigo": 2757,
+   "nombre": "JIANGSU LVNENG"
+ },
+ {
+   "codigo": 2758,
+   "nombre": "ANDINO"
+ },
+ {
+   "codigo": 2759,
+   "nombre": "HL TRAYKER"
+ },
+ {
+   "codigo": 2760,
+   "nombre": "COMBAT"
+ },
+ {
+   "codigo": 2761,
+   "nombre": "SHENYING"
+ },
+ {
+   "codigo": 2762,
+   "nombre": "NISSAN/TIIDA"
+ },
+ {
+   "codigo": 2763,
+   "nombre": "MOBIMAX"
+ },
+ {
+   "codigo": 2764,
+   "nombre": "NISSAN/D22"
+ },
+ {
+   "codigo": 2765,
+   "nombre": "BRYSER"
+ },
+ {
+   "codigo": 2766,
+   "nombre": "ORANSH"
+ },
+ {
+   "codigo": 2767,
+   "nombre": "SINOTRUK SITRAK"
+ },
+ {
+   "codigo": 2768,
+   "nombre": "TAO MOTOR"
+ },
+ {
+   "codigo": 2769,
+   "nombre": "QINGQI BRAND"
+ },
+ {
+   "codigo": 2770,
+   "nombre": "YAMAHA MAXIM"
+ },
+ {
+   "codigo": 2771,
+   "nombre": "ISOTHERMOS"
+ },
+ {
+   "codigo": 2772,
+   "nombre": "JUPITER-2"
+ },
+ {
+   "codigo": 2773,
+   "nombre": "WARSZAWA"
+ },
+ {
+   "codigo": 2774,
+   "nombre": "DAIHATSU - ROCKY"
+ },
+ {
+   "codigo": 2775,
+   "nombre": "BORGWARD"
+ },
+ {
+   "codigo": 2776,
+   "nombre": "HUMBER PULLMAN"
+ },
+ {
+   "codigo": 2777,
+   "nombre": "SUN BEAM"
+ },
+ {
+   "codigo": 2778,
+   "nombre": "PLR"
+ },
+ {
+   "codigo": 2779,
+   "nombre": "CUSHMAN"
+ },
+ {
+   "codigo": 2780,
+   "nombre": "MOSTKVICK"
+ },
+ {
+   "codigo": 2781,
+   "nombre": "HUMBER CEPTRE"
+ },
+ {
+   "codigo": 2782,
+   "nombre": "ROMEO-2"
+ },
+ {
+   "codigo": 2783,
+   "nombre": "ZXMCO"
+ },
+ {
+   "codigo": 2784,
+   "nombre": "MOSCVITCH"
+ },
+ {
+   "codigo": 2785,
+   "nombre": "MITSUBISCHI"
+ },
+ {
+   "codigo": 2786,
+   "nombre": "AMERICAN MOTORS"
+ },
+ {
+   "codigo": 2787,
+   "nombre": "KAWA"
+ },
+ {
+   "codigo": 2788,
+   "nombre": "KINGBON"
+ },
+ {
+   "codigo": 2789,
+   "nombre": "CHEVROLET-ALTEC"
+ },
+ {
+   "codigo": 2790,
+   "nombre": "NISSAN PRIMERA"
+ },
+ {
+   "codigo": 2791,
+   "nombre": "ZEDRIV"
+ },
+ {
+   "codigo": 2792,
+   "nombre": "MAXIUM"
+ },
+ {
+   "codigo": 2793,
+   "nombre": "QIANG SHENG"
+ },
+ {
+   "codigo": 2794,
+   "nombre": "CHIEB"
+ },
+ {
+   "codigo": 2795,
+   "nombre": "YMDY"
+ },
+ {
+   "codigo": 2796,
+   "nombre": "KAINING"
+ },
+ {
+   "codigo": 2797,
+   "nombre": "ELECTRIBIKE"
+ },
+ {
+   "codigo": 2798,
+   "nombre": "MILG"
+ },
+ {
+   "codigo": 2799,
+   "nombre": "ARO-CARPATI"
+ },
+ {
+   "codigo": 2800,
+   "nombre": "LINZDA"
+ },
+ {
+   "codigo": 2801,
+   "nombre": "NISSAN SUNNY"
+ },
+ {
+   "codigo": 2802,
+   "nombre": "LAND ROVER SANTANA"
+ },
+ {
+   "codigo": 2803,
+   "nombre": "DELOREAN"
+ },
+ {
+   "codigo": 2804,
+   "nombre": "YIJIE"
+ },
+ {
+   "codigo": 2805,
+   "nombre": "NYPABEU"
+ },
+ {
+   "codigo": 2806,
+   "nombre": "SMALLAND NICE"
+ },
+ {
+   "codigo": 2807,
+   "nombre": "CARMOTOS"
+ },
+ {
+   "codigo": 2808,
+   "nombre": "TOYOTA LAND CRUISSER"
+ },
+ {
+   "codigo": 2809,
+   "nombre": "NISSAN MICRA"
+ },
+ {
+   "codigo": 2810,
+   "nombre": "SAXON"
+ },
+ {
+   "codigo": 2811,
+   "nombre": "NISSAN ALMERA"
+ },
+ {
+   "codigo": 2812,
+   "nombre": "ZENG"
+ },
+ {
+   "codigo": 2813,
+   "nombre": "MOTOR CAFÉ"
+ },
+ {
+   "codigo": 2814,
+   "nombre": "ZONTES"
+ },
+ {
+   "codigo": 2815,
+   "nombre": "GUYUE"
+ },
+ {
+   "codigo": 2816,
+   "nombre": "DORCEN"
+ },
+ {
+   "codigo": 2817,
+   "nombre": "HORWIN"
+ },
+ {
+   "codigo": 2818,
+   "nombre": "HARLEY DAVISON"
+ },
+ {
+   "codigo": 2819,
+   "nombre": "NISSAN PATFHINDER"
+ },
+ {
+   "codigo": 2820,
+   "nombre": "LEITING HUANG"
+ },
+ {
+   "codigo": 2821,
+   "nombre": "NISSAN/SENTRA"
+ },
+ {
+   "codigo": 2822,
+   "nombre": "SONGI"
+ },
+ {
+   "codigo": 2823,
+   "nombre": "SUP"
+ },
+ {
+   "codigo": 2824,
+   "nombre": "NINEBOT"
+ },
+ {
+   "codigo": 2825,
+   "nombre": "BRENSON"
+ },
+ {
+   "codigo": 2826,
+   "nombre": "HOZON"
+ },
+ {
+   "codigo": 2827,
+   "nombre": "MOTOR CAFE"
+ },
+ {
+   "codigo": 2828,
+   "nombre": "MOTORCAFE"
+ },
+ {
+   "codigo": 2829,
+   "nombre": "NISSAN DIESEL"
+ },
+ {
+   "codigo": 2830,
+   "nombre": "AMERICAN COACH"
+ },
+ {
+   "codigo": 2831,
+   "nombre": "MERCEDES-BENZ"
+ },
+ {
+   "codigo": 2832,
+   "nombre": "NETA"
+ },
+ {
+   "codigo": 2833,
+   "nombre": "NO TIENE"
+ },
+ {
+   "codigo": 2834,
+   "nombre": "GENERAL MOTORS CORPORATION"
+ },
+ {
+   "codigo": 2835,
+   "nombre": "KIA BESTA"
+ },
+ {
+   "codigo": 2836,
+   "nombre": "BAOJUN"
+ },
+ {
+   "codigo": 2837,
+   "nombre": "SEYOUN NJK"
+ },
+ {
+   "codigo": 2838,
+   "nombre": "YAN HUI"
+ },
+ {
+   "codigo": 2839,
+   "nombre": "GAIA"
+ },
+ {
+   "codigo": 2840,
+   "nombre": "MOTO ELECTRIC VEHICLES"
+ },
+ {
+   "codigo": 2841,
+   "nombre": "NISSAN BLUEBIRD"
+ },
+ {
+   "codigo": 2842,
+   "nombre": "TAO"
+ },
+ {
+   "codigo": 2843,
+   "nombre": "TAOI"
+ },
+ {
+   "codigo": 2844,
+   "nombre": "SAIGE"
+ },
+ {
+   "codigo": 2845,
+   "nombre": "SULONG"
+ },
+ {
+   "codigo": 2846,
+   "nombre": "YUKI TOURS"
+ },
+ {
+   "codigo": 2847,
+   "nombre": "MOTOLIFE"
+ },
+ {
+   "codigo": 2848,
+   "nombre": "SUPER SOCO"
+ },
+ {
+   "codigo": 2849,
+   "nombre": "F.M."
+ },
+ {
+   "codigo": 2850,
+   "nombre": "RTZ"
+ },
+ {
+   "codigo": 2851,
+   "nombre": "FTD"
+ },
+ {
+   "codigo": 2852,
+   "nombre": "NISSAN BLUEBRID"
+ },
+ {
+   "codigo": 2853,
+   "nombre": "NISSAN/NAVARA"
+ },
+ {
+   "codigo": 2854,
+   "nombre": "KW DART"
+ },
+ {
+   "codigo": 2855,
+   "nombre": "NISSAN/PATHFINDER"
+ },
+ {
+   "codigo": 2856,
+   "nombre": "HAWTAI MOTOR"
+ },
+ {
+   "codigo": 2857,
+   "nombre": "CHAOYA"
+ },
+ {
+   "codigo": 2858,
+   "nombre": "MINI COOPER S COUNTRYMAN"
+ },
+ {
+   "codigo": 2859,
+   "nombre": "YAMAAHA"
+ },
+ {
+   "codigo": 2860,
+   "nombre": "MERCEDDES BENZ"
+ },
+ {
+   "codigo": 2861,
+   "nombre": "FRATELLI"
+ },
+ {
+   "codigo": 2862,
+   "nombre": "NISSAN/X-TRAIL"
+ },
+ {
+   "codigo": 2863,
+   "nombre": "TYCO SCOOTER"
+ },
+ {
+   "codigo": 2864,
+   "nombre": "RICH 6"
+ },
+ {
+   "codigo": 2865,
+   "nombre": "TRAIL-BLAZER"
+ },
+ {
+   "codigo": 2866,
+   "nombre": "313 - BYD"
+ },
+ {
+   "codigo": 2867,
+   "nombre": "TOYOTA  HI-LUX"
+ },
+ {
+   "codigo": 2868,
+   "nombre": "TOYOTA HI-LUX"
+ },
+ {
+   "codigo": 2869,
+   "nombre": "BINTELLI"
+ },
+ {
+   "codigo": 2870,
+   "nombre": "TRACTOCAZA"
+ },
+ {
+   "codigo": 2871,
+   "nombre": "TOYOTA HIACE"
+ },
+ {
+   "codigo": 2872,
+   "nombre": "ACB MOTOS"
+ },
+ {
+   "codigo": 2873,
+   "nombre": "CHEVROLET GMC"
+ },
+ {
+   "codigo": 2874,
+   "nombre": "ACCUMOS"
+ },
+ {
+   "codigo": 2875,
+   "nombre": "JSA"
+ },
+ {
+   "codigo": 2876,
+   "nombre": "FLEEK"
+ },
+ {
+   "codigo": 2877,
+   "nombre": "NISSAN-ALMERA"
+ },
+ {
+   "codigo": 2878,
+   "nombre": "TAIAN WU YUE"
+ },
+ {
+   "codigo": 2879,
+   "nombre": "JINGPENG ECO1"
+ },
+ {
+   "codigo": 2880,
+   "nombre": "KING MOTOR/ QINGQI"
+ },
+ {
+   "codigo": 2881,
+   "nombre": "BIUCK SPECIAL"
+ },
+ {
+   "codigo": 2882,
+   "nombre": "LINCOLN CONTINENTAL"
+ },
+ {
+   "codigo": 2883,
+   "nombre": "SEGWAY"
+ },
+ {
+   "codigo": 2884,
+   "nombre": "AUTECO-ROA"
+ },
+ {
+   "codigo": 2885,
+   "nombre": "NISSAN/ALMERA"
+ },
+ {
+   "codigo": 2886,
+   "nombre": "WARTBURG"
+ },
+ {
+   "codigo": 2887,
+   "nombre": "JAVELIN"
+ },
+ {
+   "codigo": 2888,
+   "nombre": "LONGZU STAR"
+ },
+ {
+   "codigo": 2889,
+   "nombre": "NISSAN TERRANO"
+ },
+ {
+   "codigo": 2890,
+   "nombre": "BIOLOGICA"
+ },
+ {
+   "codigo": 2891,
+   "nombre": "CARPATI-ARO"
+ },
+ {
+   "codigo": 2892,
+   "nombre": "HQV"
+ },
+ {
+   "codigo": 2893,
+   "nombre": "GUNG"
+ },
+ {
+   "codigo": 2894,
+   "nombre": "UGBEST"
+ },
+ {
+   "codigo": 2895,
+   "nombre": "LINGSTAR"
+ },
+ {
+   "codigo": 2896,
+   "nombre": "WOLF"
+ },
+ {
+   "codigo": 2897,
+   "nombre": "NISSAN D/22"
+ },
+ {
+   "codigo": 2898,
+   "nombre": "NISSAN/ALTIMA"
+ },
+ {
+   "codigo": 2899,
+   "nombre": "APOLLO RXF"
+ },
+ {
+   "codigo": 2900,
+   "nombre": "PORSHE"
+ },
+ {
+   "codigo": 2901,
+   "nombre": "NISSAN-PRIMERA"
+ },
+ {
+   "codigo": 2902,
+   "nombre": "NISSAN/D21"
+ },
+ {
+   "codigo": 2903,
+   "nombre": "CHEVROLET LUV"
+ },
+ {
+   "codigo": 2904,
+   "nombre": "TOYOTA LAND CRUISER HARDTOP"
+ },
+ {
+   "codigo": 2905,
+   "nombre": "CAN-AM BOMBARDIER BRP"
+ },
+ {
+   "codigo": 2906,
+   "nombre": "BRP/CAN-AM"
+ },
+ {
+   "codigo": 2907,
+   "nombre": "NISSAN/MURANO"
+ },
+ {
+   "codigo": 2908,
+   "nombre": "SURRON"
+ },
+ {
+   "codigo": 2909,
+   "nombre": "EURISE"
+ },
+ {
+   "codigo": 2910,
+   "nombre": "THUNDER EV"
+ },
+ {
+   "codigo": 2911,
+   "nombre": "JINPENG"
+ },
+ {
+   "codigo": 2912,
+   "nombre": "XWD - XINGWANGDA/ YANTAI XINGYE MACHINERY"
+ },
+ {
+   "codigo": 2913,
+   "nombre": "NISSAN-VANETTE"
+ },
+ {
+   "codigo": 2914,
+   "nombre": "NISSAN X-TRAIL"
+ },
+ {
+   "codigo": 2915,
+   "nombre": "FORD INGLES"
+ },
+ {
+   "codigo": 2916,
+   "nombre": "CUATRIMOTO SAETA RINO 4X4"
+ },
+ {
+   "codigo": 2917,
+   "nombre": "POWER ELECTRIC"
+ },
+ {
+   "codigo": 2918,
+   "nombre": "E-RACE"
+ },
+ {
+   "codigo": 2919,
+   "nombre": "CUPRA"
+ },
+ {
+   "codigo": 2920,
+   "nombre": "WUYUE"
+ },
+ {
+   "codigo": 2921,
+   "nombre": "BRP/CAM-AM"
+ },
+ {
+   "codigo": 2922,
+   "nombre": "HUATAI / GBM MOTORS"
+ },
+ {
+   "codigo": 2923,
+   "nombre": "(DONGFENG MOTOR) / GBM MOTORS"
+ },
+ {
+   "codigo": 2924,
+   "nombre": "ADTEV"
+ },
+ {
+   "codigo": 2925,
+   "nombre": "TINBOT"
+ },
+ {
+   "codigo": 2926,
+   "nombre": "LVNENG"
+ },
+ {
+   "codigo": 2927,
+   "nombre": "ZHIGAO"
+ },
+ {
+   "codigo": 2928,
+   "nombre": "FORD GRANADA"
+ },
+ {
+   "codigo": 2929,
+   "nombre": "FREDLAINE"
+ },
+ {
+   "codigo": 2930,
+   "nombre": "ECOFLY"
+ },
+ {
+   "codigo": 2931,
+   "nombre": "COMMAND CARR"
+ },
+ {
+   "codigo": 2932,
+   "nombre": "NISSAN-PATHFINDER"
+ },
+ {
+   "codigo": 2933,
+   "nombre": "NISSAN PAHFINDER"
+ },
+ {
+   "codigo": 2934,
+   "nombre": "LONKING"
+ },
+ {
+   "codigo": 2935,
+   "nombre": "BAM"
+ },
+ {
+   "codigo": 2936,
+   "nombre": "ZONTVIK"
+ },
+ {
+   "codigo": 2937,
+   "nombre": "MBI"
+ },
+ {
+   "codigo": 2938,
+   "nombre": "CAN–AM"
+ },
+ {
+   "codigo": 2939,
+   "nombre": "CHEROKEE"
+ },
+ {
+   "codigo": 2940,
+   "nombre": "WILLIS"
+ },
+ {
+   "codigo": 2941,
+   "nombre": "ATUL AUTO LIMITED"
+ },
+ {
+   "codigo": 2942,
+   "nombre": "JINMA"
+ },
+ {
+   "codigo": 2943,
+   "nombre": "GRIS SILVERSTONE - NEGRO VULCANO"
+ },
+ {
+   "codigo": 2944,
+   "nombre": "ROJO MONTE CARLO - NEGRO VULCANO"
+ },
+ {
+   "codigo": 2945,
+   "nombre": "TADANO FAUN"
+ },
+ {
+   "codigo": 2946,
+   "nombre": "BOURGET´S BIKE WORKS"
+ },
+ {
+   "codigo": 2947,
+   "nombre": "FORD MUSTANG"
+ },
+ {
+   "codigo": 2948,
+   "nombre": "WHITE-AUTOCAR"
+ },
+ {
+   "codigo": 2949,
+   "nombre": "KAINUO"
+ },
+ {
+   "codigo": 2950,
+   "nombre": "MONARK"
+ },
+ {
+   "codigo": 2951,
+   "nombre": "VOGEPRO"
+ },
+ {
+   "codigo": 2952,
+   "nombre": "HENGNIU"
+ },
+ {
+   "codigo": 2953,
+   "nombre": "HIPERFECT"
+ },
+ {
+   "codigo": 2954,
+   "nombre": "MOTO GUZZI"
+ },
+ {
+   "codigo": 2955,
+   "nombre": "TADANO-FAUN"
+ },
+ {
+   "codigo": 2956,
+   "nombre": "ZCPC"
+ },
+ {
+   "codigo": 2957,
+   "nombre": "JETOUR"
+ },
+ {
+   "codigo": 2958,
+   "nombre": "ECOMI"
+ },
+ {
+   "codigo": 2959,
+   "nombre": "DODGE BROTHERS"
+ },
+ {
+   "codigo": 2960,
+   "nombre": "DNEPR-16"
+ },
+ {
+   "codigo": 2961,
+   "nombre": "HIGHPER"
+ },
+ {
+   "codigo": 2962,
+   "nombre": "QINGLING"
+ },
+ {
+   "codigo": 2963,
+   "nombre": "AUTECO KAWASAKI"
+ },
+ {
+   "codigo": 2964,
+   "nombre": "IONIC MOTORS"
+ },
+ {
+   "codigo": 2965,
+   "nombre": "HAIBAO"
+ },
+ {
+   "codigo": 2966,
+   "nombre": "GMC ASTRO"
+ },
+ {
+   "codigo": 2967,
+   "nombre": "SSENDA"
+ },
+ {
+   "codigo": 2968,
+   "nombre": "SIHAO"
+ },
+ {
+   "codigo": 2969,
+   "nombre": "NISSAN PATHFINDER"
+ },
+ {
+   "codigo": 2970,
+   "nombre": "DEZHOU  FUQUING AUTOMOBILE"
+ },
+ {
+   "codigo": 2971,
+   "nombre": "COOPOP"
+ },
+ {
+   "codigo": 2972,
+   "nombre": "ATHER"
+ },
+ {
+   "codigo": 2973,
+   "nombre": "STEWART STEVENSON"
+ },
+ {
+   "codigo": 2974,
+   "nombre": "HONG KONG NEW ERACO"
+ },
+ {
+   "codigo": 2975,
+   "nombre": "EOLO MOTORS"
+ },
+ {
+   "codigo": 2976,
+   "nombre": "MASSINO"
+ },
+ {
+   "codigo": 2977,
+   "nombre": "DUCATI"
+ },
+ {
+   "codigo": 2978,
+   "nombre": "MUB"
+ },
+ {
+   "codigo": 2979,
+   "nombre": "SUPERMACH"
+ },
+ {
+   "codigo": 2980,
+   "nombre": "LIVAN"
+ },
+ {
+   "codigo": 2981,
+   "nombre": "SKYWELL"
+ },
+ {
+   "codigo": 2982,
+   "nombre": "XEV"
+ },
+ {
+   "codigo": 2983,
+   "nombre": "GASGAS"
+ },
+ {
+   "codigo": 2984,
+   "nombre": "ATUL"
+ },
+ {
+   "codigo": 2985,
+   "nombre": "YAOLON"
+ },
+ {
+   "codigo": 2986,
+   "nombre": "LAND ROYS"
+ },
+ {
+   "codigo": 2987,
+   "nombre": "VOLT"
+ },
+ {
+   "codigo": 2988,
+   "nombre": "W MOTORCYCLES"
+ },
+ {
+   "codigo": 2989,
+   "nombre": "NAVAJO"
+ },
+ {
+   "codigo": 2990,
+   "nombre": "IVECO TRAKKER"
+ },
+ {
+   "codigo": 2991,
+   "nombre": "TAIZHOU QIXBOR VEHICLE INDUSTRY CO. LTD"
+ },
+ {
+   "codigo": 2992,
+   "nombre": "TALARIA"
+ },
+ {
+   "codigo": 2993,
+   "nombre": "FORD FESTIVA"
+ }
+]
